@@ -487,43 +487,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "4283Colleges"
+              "college_count": "4283  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "3659Colleges"
+              "college_count": "3659  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "3400Colleges"
+              "college_count": "3399  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "3294Colleges"
+              "college_count": "3291  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "3047Colleges"
+              "college_count": "3047  Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "1732Colleges"
+              "college_count": "1730  Colleges"
             },
             {
               "specialization": "Artificial Intelligence & Machine Learning",
-              "college_count": "1582Colleges"
+              "college_count": "1581  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "1546Colleges"
+              "college_count": "1545  Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "364Colleges"
+              "college_count": "364  Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "360Colleges"
+              "college_count": "360  Colleges"
             }
           ]
         },
@@ -2815,20 +2815,20 @@
         }
       ],
       "top_recruiters": [
-        "Telecommunications",
-        "Electrical & Electronics",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "Automotive",
         "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Telecommunications",
         "Oil & Gas",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
-        "Aerospace",
         "TCS Infosys Wipro Accenture",
+        "Automotive",
+        "Aerospace",
+        "IT/Software",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
         "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
-        "IT/Software"
+        "Electrical & Electronics"
       ],
       "top_colleges": [
         {
@@ -4463,12 +4463,38 @@
         "stats": {
           "Questions": "72.4k",
           "Discussions": "10",
-          "Active Users": "514",
+          "Active Users": "495",
           "Followers": "201258"
         },
         "questions": [
           {
-            "question_text": "Is LPU a good university to do B.Tech in ECE?",
+            "question_text": "How are BTech placement statistics at RGPV?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Rajeev Gandhi College, Bhopal",
+                "tag_url": "https://www.shiksha.com/college/rajeev-gandhi-college-bhopal-22129"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "diksha soni",
+                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                },
+                "answer_text": "The key highlights recorded during RGPV BTech Placements are: Particulars BTech Placement Statistics (2024) Total Students 588 No. of Students placed 532 Median Package INR 7.10 LPA NOTE: The above data is obtained from the RGPV Engineering NIRF report 2025",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How is Lovely Professional University (LPU) for a B.Tech and its placements?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4483,44 +4509,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Shivanya Raheja",
-                  "profile_url": "https://www.shiksha.com/userprofile/78623072"
+                  "name": "Sona",
+                  "profile_url": "https://www.shiksha.com/userprofile/76852093"
                 },
-                "answer_text": "Yes, LPU is a good choice for B.Tech in ECE. The programme combines strong theoretical foundations with practical exposure through labs, projects, workshops, and internships. I've seen firsthand how students benefit from industry interactions, skill-building sessions, and placement support, which prepare them for roles in electronics, communication, embedded systems, and related fields, making LPU a solid option for ECE.",
+                "answer_text": "LPU is pretty good for B.Tech, especially if you actually use the opportunities given. The curriculum is industry-oriented, labs are decent, and there's a strong focus on internships, projects, and skill training. Placements are on a large scale-many mass recruiters come every year, along with some good tech and core companies. Packages really depend on your skills and effort, but overall, if you stay active in coding, internships, and training, placements at LPU are solid for B.Tech students.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the eligibility criteria for admission to B.Tech Computer Science Engineering at Alpine Group of Institutes?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Alpine Group of Institutes",
-                "tag_url": "https://www.shiksha.com/college/alpine-group-of-institutes-dehradun-34796"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Sinchana M",
-                  "profile_url": "https://www.shiksha.com/userprofile/99669216"
-                },
-                "answer_text": "11th and 12th percentage should me more than 50% and you have to have good scores in JEE exams",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better university to pursue B.Tech in CSE among LPU and Amity University?",
+            "question_text": "Is LPU good for pursuing B.Tech in ECE? What about the placements?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4535,122 +4535,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "There is actually no comparison, LPU's scale of operations is at a different level altogether. CSE being a highly dynamic field needs the curriculum up gradations almost continuously, LPU is only one of the few private universities which has recognised this and developed the process of continuous feedback and consultations with industry to upgrade the syllabi in real time ! LPUs investment in intellectual capital is way beyond the comprehension, extremely qualified and talented ! With a research powerhouse of more than 100 post doctorates and 700 PHDs LPUs strength is its academic power. Coming to infrastructure, the huge 600 acre plus",
+                "answer_text": "Lovely Professional University is a good choice for B.Tech in Electronics and Communication Engineering (ECE) because it offers modern labs, industry‑oriented curriculum, and opportunities for projects and internships. The campus has strong infrastructure and faculty support, helping students build practical skills in circuits, communications, and embedded systems. In terms of placements , ECE students at LPU get opportunities with a variety of companies across tech and core sectors. Recruiters visit the campus each year, and many students receive job offers with competitive salary packages. Individual results depend on your performanc",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "9 hours ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "How are BTech fees at Jamia Millia Islamia?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Jamia Millia Islamia",
-                "tag_url": "https://www.shiksha.com/university/jamia-millia-islamia-delhi-843"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Chikat Marchang",
-                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
-                },
-                "answer_text": "The BTech fees at Jamia Millia Islamia depends on the specialisation and type of course chosen with the self-financed seats at the university having comparatively higher fees. Among these specialisations most have annual fees of generally INR 19,225 while the Self-financed courses have fees of around INR 1,52,875 to INR 1,54,900.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the placement percentage recorded during University College of Technology, Osmania University BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "University College of Technology, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-technology-osmania-university-tarnaka-hyderabad-53682"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Dhanya Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
-                },
-                "answer_text": "According to UCT Osmania University Engineering NIRF report 2025, BTech placement rate in 2024 was around 68%. During the BTech placement drive 2023 and 2023, the placement rate was 68% and 62%.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the median package offered during University College of Technology, Osmania University BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "University College of Technology, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-technology-osmania-university-tarnaka-hyderabad-53682"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Krishnendu Chatterjee",
-                  "profile_url": "https://www.shiksha.com/userprofile/33610625"
-                },
-                "answer_text": "The median package offered during University College of Technology, Osmania University BTech placements 2024 was 5 LPA. In 2023 and 2022, the median package of 4 LPA.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the highest salary package offered during University College of Technology, Osmania University BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "University College of Technology, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-technology-osmania-university-tarnaka-hyderabad-53682"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587106"
-                },
-                "answer_text": "University College of Technology, Osmania University BTech the highest package is not released. According to limited data, leading recruiters such as Academor and Reliance Industries offered salary package of 8 LPA and 7.5 LPA in 2025.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which university is better among LPU and MBM?",
+            "question_text": "How can I get admission in LPU to pursue B.Tech through lateral entry after completing Diploma?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4665,39 +4561,117 @@
             "answers": [
               {
                 "author": {
-                  "name": "Vridhi",
-                  "profile_url": "https://www.shiksha.com/userprofile/77038745"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "Lovely Professional University (LPU) boasts 30,000+ students from 30+ countries. The largest private university in India, it is situated in Phagwara, Punjab. NIRF ranks it 49 th overall 2025. It offers 400+ UG/PG/PhD programs in engineering, management, law, sciences, design, etc. through infrastructure poise second to none, laboratories, and ICT classrooms. It is commonly reputed for 95 percent placements (the highest 2.5 Cr,  6000+ offers from Amazon/Google), scholarships, linked affiliations worldwide, and excellent in sports (with Olympians) with a diverse campus life comprising hostels, fests, and innovation hubs.",
+                "answer_text": "To pursue B.Tech through lateral entry at LPU after completing a diploma, you must first ensure your Diploma is recognized and relevant to the B.Tech branch you wish to join. Apply online through the official LPU admission portal and select the B.Tech (Lateral Entry) option. Upload your diploma mark sheets, certificates, and identity documents , and pay the application fee. Admission is usually based on diploma marks and LPUNEST scores, if required. Once shortlisted, you receive a provisional admission offer, followed by seat confirmation and fee payment . This allows direct entry into the second year of the B.Tech program. &n",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "13 hours ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "How good are the BTech placements at MIT-WPU, Pune?",
+            "question_text": "What is the fee for BTech (LE) course at LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "MIT-WPU",
-                "tag_url": "https://www.shiksha.com/university/mit-wpu-pune-53229"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shoaib Mehdi",
-                  "profile_url": "https://www.shiksha.com/userprofile/39519231"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "BTech is one of the most famous courses of MIT-WPU, Pune in terms of placements. Rhe course-wise placement details are yet to be released. More than 730 recruiters visited the campus for the overall placements 2025 and selected 2455 students of the batch 2025. The overall the highest and package offered to the batch 2025 stood at INR 51.36 LPA and INR 6.23 LPA. The median salary offered to the batch 2025 was INR 5.50 LPA.",
+                "answer_text": "At Lovely Professional University (LPU) , the B.Tech (Lateral Entry) course fee varies by specialisation and year, but most lateral entry B.Tech programs cost around ₹8.4 Lacs to ₹9.9 lakh for the full 3-year duration if you include the tuition fee only. Some specialisations like Computer Science & Engineering or Information Technology are generally closer to ₹9.6 lakh total tuition. Additional costs such as hostel, mess, exams, and other charges are extra and can raise the overall amount. Fees may change slightly each year, and scholarships can reduce the payable amount significantly.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "14 hours ago"
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which private colleges provide good placements for B.Tech in biotech other than LPU, VIT, Amity and Manipal?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "Lovely Professional University is one of the best choices for pursuing B.Tech in Biotechnology, offering excellent academic and placement opportunities. The programme is designed to provide a strong foundation in genetics, molecular biology, bioprocess technology, bioinformatics, and industrial biotechnology, combining theoretical knowledge with practical training through well-equipped laboratories, workshops, and live projects. Students gain hands-on experience and develop critical skills needed for research, pharmaceuticals, and biotech industries. LPU emphasizes industry exposure through internships, industrial visits, and coll",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is LPU good for B.Tech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "Lovely Professional University is considered one of the top choices for pursuing B.Tech in Computer Science Engineering due to its comprehensive curriculum, modern infrastructure, and industry-oriented approach. The CSE programme at LPU is designed to provide a strong foundation in computer Science fundamentals, including programming, algorithms, data structures, databases, operating systems, and software engineering. Along with the core subjects, the curriculum also covers emerging technologies like artificial intelligence, machine learning, data science, cloud computing, cybersecurity, and full-stack development, ensuring that studen",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which institute is better for B.Tech in terms of placement: Lovely Professional University or Anna University?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Anna University",
+                "tag_url": "https://www.shiksha.com/university/anna-university-chennai-3084"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "Lovely Professional University offers a strong and industry-oriented environment for B.Tech students, making it a highly competitive choice for engineering education and placements. The university focuses on a combination of theoretical knowledge and practical learning, with modern labs, workshops, innovation centers, and project-based curricula across all engineering disciplines. Students gain hands-on experience through industry internships, live projects, hackathons, and technical competitions, which helps them develop problem-solving skills, technical expertise, and professional readiness. LPU has a dedicated training and plac",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
               }
             ]
           }
@@ -4706,7 +4680,7 @@
       "QAD": {
         "questions": [
           {
-            "posted_time": "5 days ago",
+            "posted_time": "a week ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4761,7 +4735,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 456,
+            "views": 459,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
