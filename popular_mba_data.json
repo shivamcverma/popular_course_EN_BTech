@@ -1,14 +1,6 @@
 {
   "B Tech": {
     "overviews": {
-      "title": "What is BTech: Full Form, Duration, Admission 2026, Colleges, Syllabus, Salary & Scope",
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
       "overview": {
         "description": [
           "BTech full form is Bachelor of Technology, a UG-level engineering degree course with a duration of 4 years, divided into 8 semesters. B Tech is a professional degree that strongly focuses on computers and technology and teaches the basic topics of computer programming, software, and hardware.",
@@ -204,22 +196,6 @@
               "Details": "Based on the score or rank, students become eligible for counselling or admission rounds. Fill out the choice forms indicating the preferred colleges and courses, and attend the counselling session."
             }
           ]
-        },
-        {
-          "question": "What is the general BTech qualification?",
-          "answer": "For BTech admission, you should complete your Class 12th with PCM subjects and have at least 50-75% marks in your final board exams, which may differ from college to college. Further, you will have to get excellent marks in entrance exams like JEE Main, JEE Advanced, or other state/college-level exams to get admission to a decent BTech college in India. Know more about- BTech courses "
-        },
-        {
-          "question": "How does the counselling process work for B.Tech course after entrance exam results?",
-          "answer": "After the B Tech (Full Form: Bachelor of Technology) entrance exam results are out, you have to to register online for the counselling process of the universities you're targeting. You should upload all the necessary documents and pay the BTech counselling fee. You will then get a confirmation mail or message from the college. After that, you need to log in to the counselling portal and select your preferred colleges for admission. Then, seats will be given on the basis of your rank and score in the entrance test . After getting the seat, you need to go to the college and pay the the BTech course fee after which you can start attending classes. Know more about - BTech Admission"
-        },
-        {
-          "question": "What is the admission process for B.Tech at popular NITs in India?",
-          "answer": "To get admission to BTech courses at the NITs in India, you must secure at least 75% marks in Class 12 in the PCM subjects. The subject combination may vary on the basis of your chosen specialization. For reserved category candidates, the marks eligibility requirement is usually 65%. In addition, you must appear for and clear the JEE Main examination. You must secure vary good marks and a decent rank in the JEE Main exam to be eligible for admission. After you successfully secure a decent rank in JEE Main, you will have to apply online and then appear for the JoSAA counselling process where you will be allotted a seat according to your rank at one of the NIT branches in India."
-        },
-        {
-          "question": "Is it necessary to give entrance exams for admission to BTech course?",
-          "answer": "It is not compulsory for you to give an entrance exam for getting admission to BTech degree courses in any of the specializations. You will find a lot of popular BTech colleges in India that will give you admission on the basis of your performance in the Class 12 board exams given you have scored really good marks and are able to qualify for the merit cutoff released by the college. The minimum eligibility for admission to BTech courses is normally around 50 to 60% marks in PCM/PCB/PCMB subjects, depending on the specialisation you're interested in. Rest, you should be able to match the merit cutoff. A few colleges may also call you for an interview round after releasing the cutoffs to assess your knowledge and skill set for the BTech course. Know more about - BTech Admission"
         }
       ],
       "popular_exams": [
@@ -487,15 +463,15 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "4283Colleges"
+              "college_count": "4285Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "3659Colleges"
+              "college_count": "3658Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "3399Colleges"
+              "college_count": "3398Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
@@ -503,7 +479,7 @@
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "3047Colleges"
+              "college_count": "3046Colleges"
             },
             {
               "specialization": "Information Technology",
@@ -511,7 +487,7 @@
             },
             {
               "specialization": "Artificial Intelligence & Machine Learning",
-              "college_count": "1584Colleges"
+              "college_count": "1585Colleges"
             },
             {
               "specialization": "Electronics Engineering",
@@ -524,26 +500,6 @@
             {
               "specialization": "Chemical Engineering",
               "college_count": "361Colleges"
-            }
-          ]
-        },
-        {
-          "questions": [
-            {
-              "question": "How many specializations are available in BTech?",
-              "answer": "Hi candidate. BTech is a engineering degree where more than 20 specialisations are offered. CSE and ECE are the most popular among them. Some other popular specializations include BTech in Biotechnology , BTech Mechanical Engineering, BTech Civil Engineering , B Tech Electrical Engineering, BTech Biomedical Engineering , among others. You can choose the specialization of your choice and then decide accordingly. You need to think about your interest areas and what excites you the most in the technical engineering field. Best of luck!"
-            },
-            {
-              "question": "Can I apply for B.Tech abroad after completing Class 12 with PCM subjects?",
-              "answer": "You can apply for BTech (Full Form: Bachelor of Technology) abroad after completion of Class 12 in the Science background. You should be very clear about the specialisation you want to study and the country you want to shift to. Once you decide these two things, you should check the best universities in the country of your choice that offer the specialisation and their eligibility, application process, fee structure, accommodation facilities (if any), scholarship opportunities, and other important information. You must score decent marks in your Class 12 board exams and prepare for exams like IELTS or TOEFL, the English proficiency tests, and SAT or ACT, the aptitude tests for admission at various institutions primarily situated in the USA, Canada, and Australia. Know more about - BTech Fees"
-            },
-            {
-              "question": "What are the top universities offering BTech courses abroad?",
-              "answer": "There are more than 1,300 universities abroad that offer BTech courses in various specializations. Some of the most sought-after universities along with their first year tuition fee for BTech are given below University Name First Year Tuition Fee Massachusetts Institute of Technology, USA INR 52 lakh – 54 lakh National University of Singapore INR 11 lakh – 25 lakh Harvard University, USA INR 53 lakh Stanford University, USA INR 54 lakh – 56 lakh The University of Melbourne, Australia INR 21 lakh – 26 lakh The University of Sydney, Australia INR 25 lakh – 31 lakh University of Toronto, Canada INR 35 lakh – 42 lakh University of Cambridge, UK INR 36 lakh – 41 lakh Note - The information is taken from the official site of the college. Hope this answers your query. know more about - BTech Courses"
-            },
-            {
-              "question": "Which is the best country for B.Tech courses abroad?",
-              "answer": "Considering the most popular choices among students in the past few years the USA stands as the primary choice for BTech courses abroad by a majority of Indian students. A few of the best universities where you can pursue BTech in the USA include Stanford University, Harvard University, Yale University, etc. Rest, other popular location choices for BTech programs include the UK, Australia, Canada, and Germany. know more about - BTech Courses"
             }
           ]
         }
@@ -591,26 +547,6 @@
           "info_items": [
             "MHT CET Vs JEE Main Comparison: Check Difficulty level, Pattern & Syllabus",
             "VITEEE vs BITSAT: Check Important Highlights, Pattern, Syllabus, Exam Difficulty Level"
-          ]
-        },
-        {
-          "questions": [
-            {
-              "question": "What does the BTech coursework structure include?",
-              "answer": "In the first year of the BTech coursework, you will learn basic computer programming, applied mathematics, applied physics and mechanics irrespective of the specialization opted for by you so that you have a strong foundational base for the rigorous academic journey ahead. From second year onwards you dive into the specific specialization-related core subjects that are coupled with elective subject choices, lab work, informative workshops and capstone projects . Basically, the focus of the BTech course is to equip you with knowledge about engineering fundamentals and technical aptitude so that you can take up good job roles in the future and do justice to the job by applying both theory and practical knowledge learned during the 4 years of the academic ride at the university."
-            },
-            {
-              "question": "Is B.Tech syllabus similar for all colleges?",
-              "answer": "The BTech syllabus is not similar in all the Indian colleges. Talking about the first year of BTech, the general subjects taught are almost similar that include Physics, Mathematics, Chemistry and other engineering fundamentals to provide a basic foundation for the BTech course ahead. Further, the BTech syllabus will differ on the basis of the specialisation you have chosen and the college, different colleges follow their own set of guidelines regarding the course curriculum that includes both core and elective subjects along with practical lab work."
-            },
-            {
-              "question": "Is B.Tech syllabus very tough?",
-              "answer": "This depends on your interest and learning potential. The syllabus that is tough for you might be very easy to grasp for your friend, who finds it interesting and intriguing. For example, you may find engineering applications and Calculus taught in the first year of BTech courses very tough because of the high mathematical aptitude and engineering theory that it deals with. But, for some other person, it might be easy to study, as it gives you a channel to learn, explore, and experiment with something different. Read more: BTech Syllabus"
-            },
-            {
-              "question": "Are there any elective subjects in B.Tech course?",
-              "answer": "BTech courses do offer a variety of electives for you to opt for in the 5th and 6th semesters, where you get the chance to pick a specific subject that interests you more and is easy-going for you. You can choose to pick a subject according to the specialised field within your broad BTech specialization, which you would like to enter into in the future, where you see yourself as a happy and well-established engineering professional. For example, in BTech Electrical Engineering, there are a variety of electives like Power Systems and Electronics, Signal Processing, Communication Systems Theory, VLSI Technology, etc. Know more about - BTech Syllabus"
-            }
           ]
         },
         {
@@ -1122,70 +1058,6 @@
           ]
         },
         {
-          "questions": [
-            {
-              "question": "What are the different job profiles offered to a BTech graduate?",
-              "answer": "BTech graduates can opt for diverse specialisation options that are available in BTech programmes such as Computer Science Engineering, Electronics Engineering, Mechanical Engineering, etc. Graduates can also pursue further education in any specialisations for better salary packages and career growth. B.Tech job profiles are given in the table below: Computer Science Engineer Mechanical Engineer Civil Engineer Mining Engineer Electrical Engineer Chemical Engineer",
-              "tables": [
-                [
-                  [
-                    "Job Profile",
-                    "Average Annual Salary"
-                  ],
-                  [
-                    "Computer Science Engineer",
-                    "INR 7- 9 LPA"
-                  ],
-                  [
-                    "Mechanical Engineer",
-                    "INR 6- 8 LPA"
-                  ],
-                  [
-                    "Civil Engineer",
-                    "INR 8- 10 LPA"
-                  ],
-                  [
-                    "Mining Engineer",
-                    "INR 8- 11 LPA"
-                  ],
-                  [
-                    "Electrical Engineer",
-                    "INR 7- 9 LPA"
-                  ],
-                  [
-                    "Chemical Engineer",
-                    "INR 8- 11 LPA"
-                  ]
-                ]
-              ]
-            },
-            {
-              "question": "What skills do top recruiters look for in BTech graduates?",
-              "answer": "A majority of the top recruiters in India look for some basic skills in all the BTech graduates, which make them an asset for the recruiter's business and they are ready to offer them handsome salary packages. A few of the important skills are given below :"
-            },
-            {
-              "question": "Which are some of the high-paying BTech Mechanical Engineering jobs in India?",
-              "answer": "Hello candidate! After completing your BTech degree course in Mechanical Engineering, you get exposed to a variety of job profiles that offer you decent salaries such as Manufacturing Engineer, Mechanical Design Engineer, Production Engineer, Automotive Design Engineer, Power Plant Engineer, etc. The average annual salary package for all of these job profiles is above INR 4 LPA, which makes it look very promising for mechanical engineering graduates. Rest, you should analyze your strengths and interest areas so as to decide well for yourself about the job profile that will suit you the best. Hope this answered your query."
-            },
-            {
-              "question": "What are the career opportunities for BTech IT graduates in India?",
-              "answer": "The BTech IT course leads to a lot of earning opportunities for graduates to work on a platter. You can enter into industries such as IT advisory and consulting, healthcare, education, banking, trade, and commerce, etc. You can work as IT Engineer, IT Specialist, Mobile App Developer, Computer Programmer, Networking Systems Administrator, Database Administrator, Web Developer, Cyber Security Analyst, and many more profiles. The average BTech IT salary in India is also quite decent for fresh graduates, between INR 4 LPA and INR 7 LPA . Reference Link Information Technology Career Scope"
-            },
-            {
-              "question": "Are private sector BTech jobs better-paying than government jobs?",
-              "answer": "Well, yes. The private sector BTech jobs in India offer a higher earning potential than the government sector jobs, including promotions, yearly bonuses, performance rewards , etc., along with a plethora of career options across different sectors. Having said that, there is less scope for job stability in the private sector due to market downturns. The government sector is known for decent job security and other benefits like health insurance and retirement benefits. Rest, you can sit and decide for yourself whatever suits your interests the best. Best wishes. Read more : B Tech Jobs for Freshers"
-            },
-            {
-              "question": "What are the top companies that recruit BTech Civil Engineering graduates?",
-              "answer": "Civil Engineering graduates are actively hired by a variety of recruiters belonging to different work sectors. You can go through some of the top BTech Civil Engineering recruiters in India as given below"
-            },
-            {
-              "question": "Is there enough demand for BTech graduates in the job market?",
-              "answer": "If we look at the market demand, no doubt there is huge demand for BTech (Full Form: Bachelor of Technology) graduates among top recruiters who are constantly looking for skilled and knowledgeable students with fresh ideas to enhance their business growth and profitability. Having said that, a few previous-year employment reports published by the Business Standard and Times of India suggest that students found it a struggle to land a high-paying job after completing BTech because of a lack of industry-specific skills and knowledge and cut-throat competition between Lacs of engineering students hunting for a job. Hence, it is very important for students to focus on enhancing their skill set according to industrial demands and technological advancements, stay updated regarding all industry trends, build good networks and, most importantly, take up internships to gain experience and stand out in front of the employer. Read more: B Tech Jobs in India"
-            }
-          ]
-        },
-        {
           "title": "Industry-wise BTech Jobs and Salaries",
           "industries": [
             {
@@ -1340,15 +1212,9 @@
       ]
     },
     "courses": {
-      "title": "B Tech Courses: Fees 2026, Admission, Top Colleges, Distance Learning, Online",
+      "title": null,
       "updated_on": null,
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
+      "author": null,
       "courses": {
         "intro": {
           "paragraphs": [
@@ -1697,15 +1563,9 @@
       }
     },
     "syllabus": {
-      "title": "Updated on Jul 31, 2025 05:40 IST",
+      "title": null,
       "updated_on": null,
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
+      "author": null,
       "courses": {
         "intro": {
           "paragraphs": [
@@ -1718,31 +1578,7 @@
             "How to prepare for JEE Main 2026 in two months?"
           ]
         },
-        "syllabus_faq": [
-          {
-            "question": "What does the BTech coursework structure include?",
-            "answer": [
-              "In the first year of the BTech coursework, you will learn basic computer programming, applied mathematics, applied physics and mechanics irrespective of the specialization opted for by you so that you have a strong foundational base for the rigorous academic journey ahead.",
-              "From second year onwards you dive into the specific specialization-related core subjects that are coupled with elective subject choices, lab work, informative workshops and capstone projects .",
-              "Basically, the focus of the BTech course is to equip you with knowledge about engineering fundamentals and technical aptitude so that you can take up good job roles in the future and do justice to the job by applying both theory and practical knowledge learned during the 4 years of the academic ride at the university."
-            ]
-          },
-          {
-            "question": "Is B.Tech syllabus very tough?",
-            "answer": [
-              "This depends on your interest and learning potential. The syllabus that is tough for you might be very easy to grasp for your friend, who finds it interesting and intriguing. For example, you may find engineering applications and Calculus taught in the first year of BTech courses very tough because of the high mathematical aptitude and engineering theory that it deals with. But, for some other person, it might be easy to study, as it gives you a channel to learn, explore, and experiment with something different.",
-              "Read more: BTech Syllabus"
-            ]
-          },
-          {
-            "question": "Can I customize the BTech syllabus according to my interests?",
-            "answer": [
-              "The B Tech syllabus is a mix of both core subjects and elective subject choices based on the chosen specialization. You need to study the core subjects in every semester because they are meant to provide you the foundational knowledge of the field that is important for a stable career in the future. Coming to the elective subject choices, you get a lot of interesting options to choose from based on your interests, something that intrigues you and is fun to study. So, you do have that scope of customization when it comes to the elective subject choices in the BTech course .",
-              "know more about -",
-              "BTech Courses"
-            ]
-          }
-        ],
+        "syllabus_faq": [],
         "btech_syllabus": [
           {
             "type": "intro",
@@ -2112,31 +1948,7 @@
             "Note - This information is taken from multiple sites and hence may vary."
           ]
         },
-        "faqs": [
-          {
-            "question": "What does the BTech coursework structure include?",
-            "answer": [
-              "In the first year of the BTech coursework, you will learn basic computer programming, applied mathematics, applied physics and mechanics irrespective of the specialization opted for by you so that you have a strong foundational base for the rigorous academic journey ahead.",
-              "From second year onwards you dive into the specific specialization-related core subjects that are coupled with elective subject choices, lab work, informative workshops and capstone projects .",
-              "Basically, the focus of the BTech course is to equip you with knowledge about engineering fundamentals and technical aptitude so that you can take up good job roles in the future and do justice to the job by applying both theory and practical knowledge learned during the 4 years of the academic ride at the university."
-            ]
-          },
-          {
-            "question": "Is B.Tech syllabus very tough?",
-            "answer": [
-              "This depends on your interest and learning potential. The syllabus that is tough for you might be very easy to grasp for your friend, who finds it interesting and intriguing. For example, you may find engineering applications and Calculus taught in the first year of BTech courses very tough because of the high mathematical aptitude and engineering theory that it deals with. But, for some other person, it might be easy to study, as it gives you a channel to learn, explore, and experiment with something different.",
-              "Read more: BTech Syllabus"
-            ]
-          },
-          {
-            "question": "Can I customize the BTech syllabus according to my interests?",
-            "answer": [
-              "The B Tech syllabus is a mix of both core subjects and elective subject choices based on the chosen specialization. You need to study the core subjects in every semester because they are meant to provide you the foundational knowledge of the field that is important for a stable career in the future. Coming to the elective subject choices, you get a lot of interesting options to choose from based on your interests, something that intrigues you and is fun to study. So, you do have that scope of customization when it comes to the elective subject choices in the BTech course .",
-              "know more about -",
-              "BTech Courses"
-            ]
-          }
-        ],
+        "faqs": [],
         "specializations": {
           "Computer Science Engineering": [
             {
@@ -2208,14 +2020,6 @@
       }
     },
     "career": {
-      "title": "BTech Scope: Salary, Job Roles, Career after BTech",
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
       "career_overview": [
         "B Tech jobs in India provides a very much promising and respectable career that comes withy job stability, intellectual stimulation, and most importantly, healthy salaries. There are many of the job options for BTech freshers available across diverse work sectors, providing students job satisfaction and high earning potential. BTech full form is Bachelor of Technology, an undergraduate-level engineering degree that acts as an entry point to job opportunities for BTech freshers in both government and private sectors.",
         "Some prominent government jobs for BTech graduates are available in the PSUs, railways, research and development organizations, defense, banking, and academia . Students can get jobs in the private sector in manufacturing firms, IT and product-based companies and industries like software, electronics, aerospace, construction, etc.",
@@ -2815,20 +2619,20 @@
         }
       ],
       "top_recruiters": [
-        "IT/Software",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Oil & Gas",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
-        "Automotive",
-        "Aerospace",
-        "Telecommunications",
-        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "Electrical & Electronics",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
         "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
+        "Automotive",
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
+        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
+        "Telecommunications",
         "TCS Infosys Wipro Accenture",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing"
+        "Oil & Gas",
+        "Aerospace",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Electrical & Electronics",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
+        "IT/Software"
       ],
       "top_colleges": [
         {
@@ -2884,14 +2688,6 @@
       ]
     },
     "B.tech_addmission": {
-      "title": "BTech Admission 2026: Registration, Qualification, Selection Process",
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
       "overview_text": "The BTech admission process is mostly on the basis of Class 12 scores and the entrance exam marks that the students get. The BTech eligibility is basically passing Class 12 in Science from PCM with 50% to 75%. Exams that are accepted for BTech admission areJEE Main, JEE Advanced,MHT CET, etc. There are some exams that are conducted by colleges likeVITEEE, LPU NEST, etc. Students who are going for direct admission need to go through extra admission rounds like Group Discussion or Personal Interview. 4,700 BTech colleges are there in India which areIITBombay,IIT Delhi, IIT Madras, etc.TheBTech feesis aroundINR 5 lakh and INR 15 lakh. Recommended Links for BTech Admission 2025-26: Do's and Don'ts after JoSAA Mock Allotment 2025 MHT CET 2025 Marks vs Rank vs Percentile TS EAMCET 2025 Counselling: Dates, Step-by-Step Guide, TS EAMCET Login KCET 2025 Counselling Process Explained: Dates, Documents, Stages, Tips to Research Colleges KEAM 2025 Rank List (SOON): Release Date, Check for Engineering Courses Candidates can see the general overview of the BTech course eligibility below: Candidates can see the basic eligibiloty for BTech course below: Class 12 (PCM) with 50% Diploma in Engineering + 50% Note:The data is taken from other sources and can be different. Relevant Links for BTech Admission 2025: All About JEE Main 2026: Exam Dates, Eligibility, Pattern, Question Papers & Preparation Tips JEE Advanced Marks vs Ranks 2025 JEE Main Marks vs Percentile vs Rank 2025 TS EAMCET Marks vs Rank 2025 AP EAMCET Marks vs Rank 2025: Check detailed Analysis Candidates can check the general overview of the BTech admission process below: Relevant Links for BTech Admission 2025: How to prepare for JEE Main 2026 in two months? BTech Admission 2025: Are Students Considering CUET? KCET Marks vs Rank 2025: A Complete Analysis TNEA Marks v/s Ranks: Check Expected Rank Against Scaled Score and Predict College CUET Passing Marks 2025: Know Minimum Qualifying Marks For General, OBC, SC, ST The table given below mentions a few top B Tech entrance exams taken by a large number of students each year for students' reference: B Tech Entrance Exams B.Tech Exam Schedule JEE Main JEE Main Exam Date 2026 JEE Advanced JEE Advanced Exam Date 2025 MHT CET MHTCET Exam Date 2026 CUET CUET Exam Date 2025 TS EAMCET TS EAMCET Exam Date 2026 COMEDK UGET COMEDK UGET Exam Date 2025 KCET KCET Exam Date 2026 KEAM KEAM Exam Date 2026 WBJEE WBJEE Exam Date 2026 Note:The data is taken from other sources and can be different. Relevant links for B Tech Entrance Exams 2025: JEE Main 2026 Important Chapters & Topics for Physics, Mathematics, Chemistry JEE Main 2026 Chapter wise Weightage: Physics, Chemistry & Mathematics JEE Main Physics Syllabus 2026: PDF Download JEE Main Chemistry Syllabus 2026: PDF Download JEE Main Maths Syllabus 2026: PDF Download To understand the basics of different chapters in Class 11 & 12 PCM, please refer to the below table: The syllabus for a few BTech exams is given below: Exam Details JEE Main Syllabus Core subjects from Class 11 and Class 12 - Physics Chemistry Mathematics MHT CET Syllabus Physics Chemistry Mathematics/Biology AP EAMCET Syllabus Physics Chemistry Mathematics KCET Syllabus Physics Chemistry Mathematics COMEDK UGET Syllabus Physics Chemistry Mathematics BITSAT Syllabus Physics Chemistry Mathematics Note:The data is taken from other sources and can be different. Helpful Links for Entrance Exam for B Tech after 12th: JEE Advanced Organising Institute: Know Which IIT will Conduct JEE Advanced 2026, 2027 JEE Mains Previous Year Paper PDF Download with Solutions: Get JEE PYQ PDF Here Candidates can check the preparation tips for BTech exams: Predict your chances of B.Tech Admission 2025: Engineering College Predictor 2025 College Predictor 2025 JEE Main College Predictor 2025 BTech Rank and College Predictors Click on the links below to find popular BTech colleges in India as per the entrance exams score acceptance: Candidates can check the best government and private colleges that offer BTech courses in India below: BTech Admission 2025 in IITs Candidates can check the best IITs that offer BTech courses in India below: Best BTech Colleges Admission Details IIT BTech Fees IIT Delhi BTech Admission INR 8 lakh IIT Kanpur BTech Admission INR 8 lakh IIT Guwahati BTech Admission INR 8 lakh IIT Hyderabad BTech Admission INR 8 lakh IIT Jodhpur BTech Admission INR 8 lakh IIT Roorkee BTech Admission INR 8 lakh - 8.1 lakh IIT Dhanbad BTech Admission INR 8 lakh - 8.3 lakh IIT Madras BTech Admission INR 8 lakh - 10 lakh IIT Bombay BTech Admission INR 8 lakh - 10 lakh IIT Kharagpur BTech Admission INR 8 lakh - 10 lakh Note:The fees is taken from other sources and can be different. Candidates can check the best NITs that offer BTech courses in India below: Best BTech Colleges Admission Details NIT BTech Fees NIT Trichy BTech Admission INR 5 lakh NIT Calicut BTech Admission INR 5 lakh NIT Surathkal BTech Admission INR 5 lakh NIT Warangal BTech Admission INR 5 lakh NIT Silchar BTech Admission INR 5 lakh MNIT Jaipur BTech Admission INR 5 lakh VNIT BTech Admission INR 5 lakh NIT Rourkela BTech Admission INR 5 lakh - 6.25 lakh NIT Durgapur BTech Admission INR 5 lakh - 6.25 lakh NIT Patna BTech Admission INR 5 lakh - 6.25 lakh Note:The fees is taken from other sources and can be different. Useful Links for B Tech Admission 2025: List of Top IITs in India 2025: NIRF Ranking, Courses, Seats, Fees & Placement List of NIT Colleges in India 2025 - NIRF Ranking, Courses, Seats, Cutoff, Fees and Placement NIT Fee Structure 2025 - Check Annual & Semester Fees for BTech IIT B Tech Fees Structure Candidates can check the best government colleges that offer BTech courses in India below: Best BTech Colleges Admission Details BTech Fees Jadavpur University BTech Admission INR 15,630 - 1.21 lakh Jamia Milia Islamia BTech Admission INR 64,600 COEP BTech Admission INR 68,000 DTU BTech Admission INR 2.97 lakh - 6.87 lakh IIEST BTech Admission INR 5 lakh Note:The fees is taken from other sources and can be different. Candidates can check the best private colleges that offer BTech courses in India below: Best BTech Colleges Admission Details B Tech Fees SASTRA University BTech Admission INR 50,000 - 7.5 lakh VIT Vellore BTech Admission INR 4.87 lakh - 7.8 lakh SOA University BTech Admission INR 5.1 lakh - 12.2 lakh Chandigarh University BTech Admission INR 5.7 lakh - 14 lakh MIT-WPU BTech Admission INR 7.2 lakh - 17 lakh LPU BTech Admission INR 8.4 lakh - 16 lakh Amity University BTech Admission INR 9.08 lakh - 17.6 lakh Thapar University BTech Admission INR 10.38 lakh - 19.56 lakh SRM Institute of Science and Technology BTech Admission INR 11 lakh - 23.75 lakh BITS Pilani BTech Admission INR 20.76 lakh Note:The fees is taken from other sources and can be different. The NTA has released JEE Main Cutoff 2025 marking an important milestone for JEE Advanced 2025 aspirants. Candidates can check here the cutoff for JEE Main 2025 to get a general idea about the minimum marks required to qualify for the JEE Advanced exam. Note-This information has been sourced from the official website/ counselling body and may vary. Relevant Links for B Tech Admissions: COMEDK UGET Rank Predictor 2025 JEE Advanced Rank Predictor 2025 MHT CET College Predictor 2025 TS EAMCET College Predictor 2025 Candidates can see the table below for colleges with high package: Name of College Average Package Offered IIT Madras Placements INR 13.1 LPA - 84 LPA IIT Delhi Placements INR 20 LPA - 22 LPA IIT Bombay Placements INR 17.92 LPA - 19.63 LPA IIT Kharagpur Placements INR 21.28 LPA IIT Roorkee Placements INR 19.69 LPA NIT Rourkela Placements INR 7.05 LPA - 20 LPA NIT Trichy Placements INR 15.76 LPA DTU - Delhi Technological University Placements INR 14.1 LPA Lovely Professional University Placements INR 7.07 LPA Note:The data is taken from other sources and can be different. Relevant Links for BTech Colleges in India: IIT Placements – Know Highest Salary Package & Placement Process NIT Placements – Know Highest Salary Package & Placement Process",
       "overview_links": [
         {
@@ -3574,14 +3370,6 @@
       ]
     },
     "fees": {
-      "title": "BTech Fees for Private and Government Colleges in India",
-      "author": {
-        "name": "Akansha Bisht",
-        "profile": "https://www.shiksha.com/author/Akansha295956908",
-        "image": "https://images.shiksha.com/mediadata/images/1711438210phpdmV3bZ_m.png",
-        "role": "Senior Executive",
-        "verified": true
-      },
       "fees_overview": {
         "overview_text": [
           "Interestingly, both public and private BTech colleges also offer academic scholarships and financial aid, considering the academic performance of the students in entrance exams and economic need. Students must conduct thorough research about theB Tech fees in private collegesand government collegesso as to make an informed decision about theirBTechjourney ahead.",
@@ -3702,7 +3490,7 @@
     "btech VS bsc": {
       "title": "BTech vs BSc: Differences, Eligibility, Admission, Jobs, Salary 2024",
       "author": {},
-      "updated_on": "15  mins read",
+      "updated_on": "15mins read",
       "summary": "Shiksha talks to IIT, NIT officials and JEE toppers to know various aspects, difficulty level, scope and career prospects involving both fields of BSc and BTech.  BTech belongs to the engineering field whereas, BSc is to science. Objective for comparison between the two courses is to signify the key differences such as focus, fees, and admission.",
       "introduction": {
         "text": [
@@ -4463,72 +4251,150 @@
         "stats": {
           "Questions": "72.5k",
           "Discussions": "10",
-          "Active Users": "473",
-          "Followers": "201261"
+          "Active Users": "471",
+          "Followers": "201262"
         },
         "questions": [
           {
-            "question_text": "Why choose BTech CSE in 2026 & how can I apply for AEEE Exam?",
+            "question_text": "Which university is better among LPU and MBM?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "B.Tech Computer Science and Engineering",
-                "tag_url": "https://www.shiksha.com/tags/b-tech-computer-science-and-engineering-tdp-388687"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "narendra prajapat",
-                  "profile_url": "https://www.shiksha.com/userprofile/100262034"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "because there are many job, good salary, and career options in software, AI, DS, ML, and cybersecurity",
+                "answer_text": "hi, Lovely Professional University (LPU) is considered better because of its large, well-planned campus, modern infrastructure, and wide range of academic programs. It offers industry-oriented curricula with practical exposure, live projects, and certifications in collaboration with companies like Google, IBM, and Microsoft. LPU provides strong learning resources, experienced faculty, and advanced laboratories. Students benefit from diverse peer interaction, international exposure, and active clubs and societies. While placements depend on individual effort, the university offers ample opportunities, skill-development platforms, and car",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "49 mins ago"
+                "posted_time": "7 mins ago"
               }
             ]
           },
           {
-            "question_text": "Which is better BITS vs Amrita vs VIT for BTech CSE?",
+            "question_text": "Which is better for B.Tech- LPU or MSRIT?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "BITS Pilani - Birla Institute of Technology and Science",
-                "tag_url": "https://www.shiksha.com/university/bits-pilani-birla-institute-of-technology-and-science-467"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "narendra prajapat",
-                  "profile_url": "https://www.shiksha.com/userprofile/100262034"
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
                 },
-                "answer_text": "BITS is best for sure",
+                "answer_text": "hi, B.Tech at Lovely Professional University (LPU) offers a wide range of engineering branches including CSE, Mechanical, Civil, Electrical, Electronics, Automobile, and emerging technologies. The university follows an industry-oriented curriculum with practical learning, modern laboratories, and strong infrastructure. LPU has collaborations with companies like IBM, Google, and Microsoft for certifications and skill-based training. Placements are average overall, but students who actively work on skills, internships, and projects can secure good opportunities. With a diverse campus, global exposure programs, and multiple clubs, LPU sui",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "50 mins ago"
+                "posted_time": "8 mins ago"
               }
             ]
           },
           {
-            "question_text": "How many offers were made to BTech students during the recent NIT Jalandhar placements?",
+            "question_text": "How are the placements of B.Tech in automobile engineering in LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "NIT Jalandhar: Placements, Admission 2024, Cut off, Courses, Fees, Ranking",
-                "tag_url": "https://www.shiksha.com/college/national-institute-of-technology-jalandhar-24247"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 3,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "hi, Placements for B.Tech in Automobile Engineering at LPU are moderate and improving . Core automotive companies like Bosch, Ashok Leyland, Tata Motors, Hyundai, Mahindra and others visit for recruitment, giving students exposure to design, production, testing and quality roles. The average package for automobile graduates is generally modest (often around ₹3–₹8 LPA), with the the highest offers occasionally going higher (reports vary up to ₹20–₹31 LPA for standout students). Many students also get internships, and the dedicated placement cell supports resume building and interview prep. Success depends on individual skills",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "11 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which one is better CGC Landran or LPU for B.Tech in CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "B.Tech in Computer Science and Engineering (CSE) at Lovely Professional University (LPU) focuses on industry-oriented learning with specializations in AI, Machine Learning, Data Science, Cybersecurity, and Cloud Computing. The program offers modern labs, strong infrastructure, and collaborations with companies like Google, IBM, and Microsoft for certifications. Placements are average overall, but skilled and consistent students can secure good packages through internships and projects. LPU provides ample opportunities through hackathons, coding clubs, live projects, and global exposure programs, making it suitable for students who are",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is it necessary to appear for LPUNEST in order to take admission in LPU for B.Tech?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
+                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
+                },
+                "answer_text": "Yes, appearing for LPUNEST is generally necessary to take admission in B.Tech programs at Lovely Professional University (LPU). LPUNEST acts as both an entrance test and a scholarship test, and admission is usually offered based on LPUNEST performance. However, LPU also accepts national-level entrance exam scores such as JEE Main for admission and scholarship benefits. In some cases, direct admission may be available based on Class 12 marks, but LPUNEST is still recommended to secure better scholarship opportunities and preferred branches. Therefore, appearing for LPUNEST is the safest and most beneficial option for B.Tech aspirants.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "16 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are the BTech placements at Jain Deemed to be University Faculty of Engineering and Technology?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
               }
             ],
             "followers": 0,
@@ -4538,101 +4404,23 @@
                   "name": "Shoaib Mehdi",
                   "profile_url": "https://www.shiksha.com/userprofile/39519231"
                 },
-                "answer_text": "The participating recruiters presented 129 job offers to the BTech students during NIT Jalandhar placements 2025. A total 862 BTech students of the batch 2025 were eligible for the placements, of which 792 student secured job offers. In total,  1003 job offers were provided to the BTech graduates.",
+                "answer_text": "Faculty of Engineering and Technology Jain University has released the overall placement details for the batch 2025.  More than 3,000 companies visited the institute campus and presented over 2,500 job offers to the students. The highest and average package offered was INR 81.25 LPA and INR 8 LPA.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "50 mins ago"
+                "posted_time": "25 mins ago"
               }
             ]
           },
           {
-            "question_text": "Are there any one-time charges in University College of Engineering Osmania University BTech fees?",
+            "question_text": "Which BTech college is better, Lucknow University or AKTU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "University College of Engineering, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
-                },
-                "answer_text": "In addition to tuition, University College of Engineering Osmania University BTech students pay a one-time special fee. This is approximately INR 9,770. It is applicable to all B.E./BTech students.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is the University College of Engineering Osmania University BTech fee the same for specialised branches?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "University College of Engineering, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
-                },
-                "answer_text": "University College of Engineering Osmania University BTech fees are higher for some specialised branches. AI & ML has tuition around INR 1.20 Lacs per year. Mining Engineering is approximately INR 1.0 Lacs per year.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the University College of Engineering Osmania University BTech fee for core branches?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "University College of Engineering, Osmania University",
-                "tag_url": "https://www.shiksha.com/college/university-college-of-engineering-osmania-university-amberpet-hyderabad-19300"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
-                },
-                "answer_text": "The University College of Engineering Osmania University BTech fee is around INR 50,000 per year for most core branches. This includes streams like Civil, Mechanical, EEE, ECE, and CSE. Fees are affordable compared to many institutions.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which are the top BTech colleges in Bihar that offer direct admission?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+                "tag_name": "AKTU - Dr. A.P.J. Abdul Kalam Technical University (UPTU)",
+                "tag_url": "https://www.shiksha.com/university/aktu-dr-a-p-j-abdul-kalam-technical-university-uptu-lucknow-57835"
               }
             ],
             "followers": 0,
@@ -4642,67 +4430,15 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "Hi, Top BTech colleges in Bihar like IIT Patna, NIT Patna, IIIT Bhagalpur, MIT Muzaffarpur, and Gaya College of Engineering, primarily use JEE Main or BCECE entrance exam scores, but some private colleges like Amity University Patna and government colleges offer direct admission without any entrance exam. Listed below are the top colleges - Top Colleges Tuition Fee Amity University, Patna INR 7.6 lakh Maulana Azad College of Engineering and Technology INR 2.8 lakh Dr. C.V. Raman University, Bihar INR 3 lakh Netaji Subhas Institute of Technology INR 5.13 lakh Source: Official site and may vary.",
+                "answer_text": "Hi, AKTU (Dr. A.P.J. Abdul Kalam Technical University) is generally considered better for BTech degree because it's a dedicated technical university with numerous affiliated engineering colleges, offering many specialisations and industry focus than Lucknow University, which is a broader university with a newer BTech program, though LU's placements are improving. Source: External site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "27 mins ago"
               }
             ]
           },
           {
-            "question_text": "What is the BTech placement percentge recorded during IIT Guwahati placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIT Guwahati - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587558"
-                },
-                "answer_text": "842 students registered, and 637 students were placed during IIT Guwahati BTech placements 2025. BTech placement rate recorded in 2025 was 75.65%.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility criteria for BTech at NIT Calicut?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Calicut - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-calicut-national-institute-of-technology-4288"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tanu Rao",
-                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
-                },
-                "answer_text": "National Institute of Technology Calicut offers BTech across several specialisations. The duration for BTech at NIT Calicut is 4 years. The eligibility for BTech courses at NIT Calicut is Class 12 with at least 75% and a valid score in JEE Main or DASA UG.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the average fees of BTech in Odisha?",
+            "question_text": "Which is the lowest BTech fees in Lucknow?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4720,10 +4456,62 @@
                   "name": "Tasbiya Khan",
                   "profile_url": "https://www.shiksha.com/userprofile/48629429"
                 },
-                "answer_text": "BTech fees in Odisha vary from college to college, from around INR < 1 Lacs to more than INR 15 Lakhs for top government institutes like NIT Rourkela and IIIT Bhubaneswar, while private colleges can range from a few lakhs. Listed below are the colleges with tuition fees - Top BTech Colleges Tuition Fee Seat Intake SOA University BTech Course INR 5.1 Lacs – INR 12.2 lakh 1,980 KIIT BTech Course INR 17.6 lakh 1,740 C. V. Raman Global University BTech Course INR 3.9 Lacs – INR 12 lakh 1,260 NIT Rourkela Admission INR 5 Lacs – INR 6.25 lakh 948 IIT Bhubaneswar Admission INR 8 Lacs – INR 10 lakh 619 Source: Official site and may vary.",
+                "answer_text": "Shri Ramswaroop Memorial University and Goel Group of Institutions have the lowest tuition fees of less than INR 1 Lacs - Low-cost BTech Colleges Total Tuition Fee Shri Ramswaroop Memorial University Fees INR 47,500 Goel Group of Institutions Fees INR 75,890 Source: official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "29 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which are the top 5 private engineering colleges in Lucknow?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "Private BTech colleges are expensive than government colleges with admission primarily be based on JEE Main and CUET. The top 5 private Engineerng colleges in Lucknow with their tuition fees and ther seat intake are mentioned below - College Name Total Tuition Fee BTech Seat Intake Integral University BTech Course INR 2.55 Lacs - INR 14.4 lakh - SR University, Lucknow BTech Course INR 8.32 Lacs - INR 15.44 lakh - Babu Banarasi Das University BTech Course INR 3.6 Lacs - INR 6.82 lakh 360 Lucknow Institute of Technology BTech Course INR 1.78 Lacs - INR 2.45 lakh 300 SR Group of Institutions BTech Course INR 1.95 Lacs - INR 4.42 lakh 810 Source: Official site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "31 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the minimum eligibility for BTech at ICFAI University, Himachal Pradesh?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "ICFAI UNIVERSITY",
+                "tag_url": "https://www.shiksha.com/tags/icfai-university-tdp-191932"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "heau mishr",
+                  "profile_url": "https://www.shiksha.com/userprofile/97122734"
+                },
+                "answer_text": "The minimum eligibility for BTech at ICFAI University, Himachal Pradesh is passing Class 12 (or an equivalent Examination) with 50% aggregate marks with Mathematics, Physics, Chemistry and English as compulsory subjects. The selection criteria is entrance based for the same.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
               }
             ]
           }
@@ -4732,7 +4520,7 @@
       "QAD": {
         "questions": [
           {
-            "posted_time": "a week ago",
+            "posted_time": "2 weeks ago",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4766,7 +4554,7 @@
             ],
             "question_text": "Hi all, I want to discuss about the confusion created by private colleges regarding admissions.",
             "followers": 2,
-            "views": 503,
+            "views": 504,
             "author": {
               "name": "Mohit diwakar",
               "profile_url": "https://www.shiksha.com/userprofile/99303948"
@@ -4787,7 +4575,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 460,
+            "views": 461,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
