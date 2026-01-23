@@ -463,7 +463,7 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "4285Colleges"
+              "college_count": "4300Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
@@ -491,7 +491,7 @@
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "1545Colleges"
+              "college_count": "1546Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
@@ -499,7 +499,7 @@
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "361Colleges"
+              "college_count": "360Colleges"
             }
           ]
         }
@@ -2619,20 +2619,20 @@
         }
       ],
       "top_recruiters": [
-        "Automotive",
         "IT/Software",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
+        "Automotive",
+        "Telecommunications",
+        "TCS Infosys Wipro Accenture",
         "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
-        "Aerospace",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
         "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
         "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
         "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "TCS Infosys Wipro Accenture",
-        "Electrical & Electronics",
-        "Telecommunications",
+        "Aerospace",
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
         "Oil & Gas",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)"
+        "Electrical & Electronics",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)"
       ],
       "top_colleges": [
         {
