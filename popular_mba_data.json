@@ -2619,20 +2619,20 @@
         }
       ],
       "top_recruiters": [
-        "Automotive",
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
         "Telecommunications",
+        "IT/Software",
+        "TCS Infosys Wipro Accenture",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
+        "Automotive",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Electrical & Electronics",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Oil & Gas",
+        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
         "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
         "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
         "Aerospace",
-        "Oil & Gas",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
-        "TCS Infosys Wipro Accenture",
-        "Electrical & Electronics",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "IT/Software"
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)"
       ],
       "top_colleges": [
         {
@@ -4256,6 +4256,58 @@
         },
         "questions": [
           {
+            "question_text": "What all documents will be required during the BTech application process?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "B.Tech Admission Process",
+                "tag_url": "https://www.shiksha.com/tags/b-tech-admission-process-tdp-166157"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Gunjan Dhawan",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589692"
+                },
+                "answer_text": "You'll need all the basic docs like your Class 12 mark sheet Birth certificate Photo ID proof like Adhaar, Passport, PAN, etc. Passport-sized photos Domicile Caste/category certificate (if applicable) Know more about - BTech Admission 2026",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is better for BTech Biotechnology: MIT Manipal or Thapar Institute?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Manipal Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/manipal-institute-of-technology-mahe-3225"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Mohit diwakar",
+                  "profile_url": "https://www.shiksha.com/userprofile/99303948"
+                },
+                "answer_text": "For BTech Biotechnology , Thapar is the stronger pick — solid faculty, serious academics, good research culture, and a campus that actually pushes you to work hard. Manipal is chill, Thapar is focused. If you want discipline + outcomes, Thapar wins.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
             "question_text": "Which private colleges provide good placements for B.Tech in biotech other than LPU, VIT, Amity and Manipal?",
             "tags": [
               {
@@ -4277,7 +4329,7 @@
                 "answer_text": "B.Tech Biotechnology at Lovely Professional University (LPU) combines engineering fundamentals with biological sciences like genetics, microbiology, bioprocess engineering, and bioinformatics . The programme offers well-equipped labs, research exposure, internships, and industry-oriented projects in pharma, healthcare, agriculture, and research sectors. LPU encourages certifications, workshops, and higher-study preparation (GATE, MSc, MBA). Placements are moderate , as core biotech roles often prefer higher qualifications, but students do get opportunities in pharma companies, labs, quality control, and R&D support roles . Overall, it's a",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "12 hours ago"
               }
             ]
           },
@@ -4303,7 +4355,7 @@
                 "answer_text": "Yes — B.Tech in Electronics & Communication Engineering (ECE) at Lovely Professional University (LPU) can be a good choice if you're committed and make the most of opportunities. LPU offers modern labs, industry-aligned projects, internships, and practical learning that prepare students for electronics, communication, IoT and related tech roles. Recruiters visit the campus, and ECE students have received strong offers — including record packages like ₹2.5 crore for top performers and many average offers in respectable ranges — though this varies by skill and effort. However, placements and outcomes depend heavily on your perform",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "12 hours ago"
               }
             ]
           },
@@ -4329,7 +4381,7 @@
                 "answer_text": "Yes, you can apply for B.Tech at Indrashil University through lateral entry after completing your Diploma in IT. You will get admission directly in 2nd year (3-year B.Tech), subject to university eligibility. Process: Contact the Indrashil University admission office, check lateral entry availability, submit Diploma marksheets and required documents, and apply as per their guidelines.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "14 hours ago"
               }
             ]
           },
@@ -4355,7 +4407,7 @@
                 "answer_text": "At LPU, CGPA holds crucial importance because students need to achieve a minimum CGPA of 5.0 for placement registration yet mass recruiters usually expect candidates to have CGPA scores between 6.5 and 7.0 whereas elite companies like Microsoft require candidates to maintain a CGPA of at least 8.0 without any backlogs. Students with higher CGPA scores gain access to \"topper sections\" which provide opportunities to work with superior companies that offer salary packages starting from ₹10 LPA through their skills and interview performance.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "9 hours ago"
+                "posted_time": "17 hours ago"
               }
             ]
           },
@@ -4544,7 +4596,7 @@
             ],
             "question_text": "Difference between btech in cs and bca",
             "followers": 34,
-            "views": "1.8000",
+            "views": "1.9000",
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
