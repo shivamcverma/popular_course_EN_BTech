@@ -462,23 +462,23 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "4326Colleges"
+              "college_count": "4327Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "3668Colleges"
+              "college_count": "3669Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "3408Colleges"
+              "college_count": "3409Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "3302Colleges"
+              "college_count": "3303Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "3057Colleges"
+              "college_count": "3058Colleges"
             },
             {
               "specialization": "Information Technology",
@@ -486,7 +486,7 @@
             },
             {
               "specialization": "Artificial Intelligence & Machine Learning",
-              "college_count": "1595Colleges"
+              "college_count": "1596Colleges"
             },
             {
               "specialization": "Electronics Engineering",
@@ -494,11 +494,11 @@
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "365Colleges"
+              "college_count": "366Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "363Colleges"
+              "college_count": "364Colleges"
             }
           ]
         }
@@ -2618,20 +2618,20 @@
         }
       ],
       "top_recruiters": [
-        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
-        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "Electrical & Electronics",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
-        "Aerospace",
+        "IT/Software",
         "TCS Infosys Wipro Accenture",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
         "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
         "Oil & Gas",
-        "IT/Software",
-        "Telecommunications",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "Automotive",
         "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)"
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
+        "Telecommunications",
+        "Automotive",
+        "Electrical & Electronics",
+        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
+        "Aerospace",
+        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications"
       ],
       "top_colleges": [
         {
@@ -4255,77 +4255,51 @@
         },
         "questions": [
           {
-            "question_text": "What are the top government BTech colleges in Thane?",
+            "question_text": "How much is the tuition fees for BTech at IIT Gandhinagar?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+                "tag_name": "IIT Gandhinagar - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Quantifiers",
-                  "profile_url": "https://www.shiksha.com/userprofile/100051692"
+                  "name": "Himanshi Gupta",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586782"
                 },
-                "answer_text": "In Thane , there are very few fully government B.Tech colleges , so most engineering options are AICTE-approved colleges affiliated to the University of Mumbai rather than strictly “government” institutions. However, if you're looking for recognised engineering colleges there, here are some to consider (based on rankings and approvals): 🎓 Engineering Colleges in Thane Watumull Institute of Electronics Engineering and Computer Technology, Ulhasnagar – Established institute offering B.E./B.Tech programs and AICTE-approved. A. P. Shah Institute of Technology (APSIT), Thane – AICTE-approved engineering college affiliated to Universit",
+                "answer_text": "The total tuition fee for BTech at IIT Gandhinagar is INR 8 lakh . This fee component is charged on annual or semester-basis. The given fee is as per the official website/ sanctioning body. It is still subject to change and hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "2 hours ago"
               }
             ]
           },
           {
-            "question_text": "What are the top private BTech colleges in Thane?",
+            "question_text": "How good are the BTech placements at JECRC?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+                "tag_name": "Jaipur Engineering College & Research Centre",
+                "tag_url": "https://www.shiksha.com/college/jaipur-engineering-college-research-centre-24095"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                  "name": "Shoaib Mehdi",
+                  "profile_url": "https://www.shiksha.com/userprofile/39519231"
                 },
-                "answer_text": "Candidates can check the table below for the top private BTech colleges in Thane with their tuition fees and BTech seat intake - Private Colleges Tuition Fee BTech Seat Intake A. P. Shah Institute of Technology BTech Course INR 4.12 lakh 780 New Horizon Institute of Technology & Management BTech Course INR 2.73 lakh 480 Shree L.R. Tiwari College of Engineering BTech Course INR 3.12 Lacs – INR 4.16 lakh 900 Theem College of Engineering BTech Course INR 2.56 lakh 450 Shivajirao S. Jondhale College of Engineering BTech Course INR 3.19 lakh 430 Source: Official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What campus facilities do BTech colleges in Thane provide?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Hi, The key facilities provided by the top BTech colleges in Thane are mentioned below - Academic Infrastructure like labs and classrooms Digital Connectivity Learning Resources like Libraries Campus Life like Canteens, etc. Source: External site and may vary.",
+                "answer_text": "JECRC offers good placements annually to its BTech students. In 2026, the ighest and average package achieved by BTech batch 2026 stood at INR 33 LPA and INR 6.67 LPA. The participating recruiters have made 1030 offers.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
@@ -4333,25 +4307,25 @@
             ]
           },
           {
-            "question_text": "Is it worth joining the top BTech colleges in Thane?",
+            "question_text": "When does NIT Jamshedpur BTech admission process start?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+                "tag_name": "NIT Jamshedpur - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-jamshedpur-national-institute-of-technology-24366"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                  "name": "Jaya Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
                 },
-                "answer_text": "Joining the top BTech colleges in Thane can be worthwhile for you. Candidates can chec the worth by comparing tuition fees and average salary. Listed below are the top colleges - Top Colleges Tuition Fee Average Salary A. P. Shah Institute of Technology Placements INR 4.12 lakh INR 4.28 LPA Shree L.R. Tiwari College of Engineering Placements INR 3.12 Lacs – INR 4.16 lakh INR 3.6 LPA Shivajirao S. Jondhale College of Engineering Placements INR 3.19 lakh INR 3.6 LPA Source: Official site and may vary.",
+                "answer_text": "NIT Jamshedpur BTech admission opens with the announcement of NTA JEE Main notification. Students should check the official website regularly for updates on registration dates and application deadlines.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
@@ -4359,158 +4333,184 @@
             ]
           },
           {
-            "question_text": "Is pursuing BTech from Thane colleges expensive?",
+            "question_text": "How are the placements for B.Tech at LPU?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "Pursuing a BTech in Thane is generally considered moderately priced to affordable compared to top-tier private engineering colleges for the entire 4-year program. Listed below are the top colleges with their expensive tuition fees - Top Colleges Tuition Fee A. P. Shah Institute of Technology INR 4.12 lakh College of Agriculture Biotechnology, Saralgaon INR 3.9 lakh Shree L.R. Tiwari College of Engineering INR 3.12 Lacs - INR 4.16 lakh Shivajirao S. Jondhale College of Engineering INR 3.19 lakh Source: Official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the best BTech college in Thane?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "As per popularity basis by shiksha.com, Candidates can see the table below for the best BTech colleges in Thane with their tuition fees - Top Colleges Tuition Fee A. P. Shah Institute of Technology INR 4.12 lakh New Horizon Institute of Technology & Management INR 2.73 lakh Shree L.R. Tiwari College of Engineering INR 3.12 Lacs - INR 4.16 lakh Theem College of Engineering INR 2.56 lakh Shivajirao S. Jondhale College of Engineering INR 3.19 lakh Source: Official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the average tuition fee for BTech colleges in Thane?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Colleges in Thane",
-                "tag_url": "https://www.shiksha.com/tags/colleges-in-thane-tdp-187230"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "The average tuition fee of Thane BTech colleges may vary from government to private colleges. Candidates can check the table below for the top BTech colleges in Thane with their tuition fees and their seat intake - Top Colleges Tuition Fee BTech Seat Intake A. P. Shah Institute of Technology BTech Course INR 4.12 lakh 780 New Horizon Institute of Technology & Management BTech Course INR 2.73 lakh 480 Shree L.R. Tiwari College of Engineering BTech Course INR 3.12 Lacs – INR 4.16 lakh 900 College of Food Technology, Murbad BTech Course INR 2.68 lakh 81 College of Agriculture Engineering and Technology BTech Course INR 2.68 lakh 40 Source: Official site and may vary.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility for BTech admission in Thane colleges?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "The general eligibility criteria to get admission to BTech colleges in Thane includes passing Class 12 with Physics, Mathematics, and Chemistry with an aggregate of 45-60% marks from a recognised board. Clear an entrance exam like JEE Main and MHT CET.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How many BTech colleges are there in Thane?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "btech",
-                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tasbiya Khan",
-                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
-                },
-                "answer_text": "There are more than 20 BTech colleges are there in Thane including both private and semi government colleges. Some of the top colleges are A. P. Shah Institute of Technology, New Horizon Institute of Technology & Management, Shree L.R. Tiwari College of Engineering, Theem College of Engineering, and many others. Admission are usually based on JEE Main and MHT CET entrance exam score basis.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the best college to pursue B.Tech among TIT-Bhopal, LPU-Jalandhar, BBD-Lucknow and SRMU-Lucknow?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Babu Banarasi Das University",
-                "tag_url": "https://www.shiksha.com/university/babu-banarasi-das-university-lucknow-33058"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
             "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "Sona",
-                  "profile_url": "https://www.shiksha.com/userprofile/76852093"
+                  "name": "Manjot singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/87740446"
                 },
-                "answer_text": "Among TIT-Bhopal, LPU-Jalandhar, BBD-Lucknow, and SRMU-Lucknow, all are good in their own ways-but LPU (Lovely Professional University) stands out for a few clear reasons. LPU offers a large and diverse campus, industry-relevant curriculum, strong placement support, and plenty of hands-on learning through labs, projects, and collaborations. The exposure you get-academically and socially-makes it one of the best places among these options to pursue B.Tech and build a well-rounded engineering career.",
+                "answer_text": "LPU provides ample opportunities to each and every eligible student to secure good placement with the help of a dedicated Division of Career Services. The university has been ranked highly by various outer agencies with regard to placements of our students More than 550 companies visit every year for such activities and campus-recruitment of students from LPU; and this year for batch graduating in 2020, already more than 500 placement/internship drives have been conducted till January 2020 with leading industry giants",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "9 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "In CUET 2025 I have PCM and Hindi with total marks 298 out of 1000. Which colleges and central govt. universities can I get for ECE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Engineering",
+                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shashwat Shandilya",
+                  "profile_url": "https://www.shiksha.com/userprofile/46431951"
+                },
+                "answer_text": "298 is very low score so it is likely impossible to get admission for ECE branch you need to score 600-800 than you can get a government University",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are B.Tech placements at Dr. Ram Manohar Lohia Avadh University?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Dr. Ram Manohar Lohia Avadh University",
+                "tag_url": "https://www.shiksha.com/university/dr-ram-manohar-lohia-avadh-university-uttar-pradesh-other-19953"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "B.Tech placements at Lovely Professional University (LPU) are generally considered strong and industry-oriented, with many students securing job offers before or during their final year. The university has built a well-structured placement ecosystem that connects students with a wide range of companies across sectors such as IT, software development, consulting, finance, core engineering, analytics, and product management. The placement cell works year-round, offering training in essential skills like aptitude, communication, coding, interview readiness, and resume building, which significantly improves students' chances during recruit",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Does Dr. Ram Manohar Lohia Avadh University have good placements for B.Tech CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Dr. Ram Manohar Lohia Avadh University",
+                "tag_url": "https://www.shiksha.com/university/dr-ram-manohar-lohia-avadh-university-uttar-pradesh-other-19953"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "Yes, Lovely Professional University (LPU) has good placement opportunities for B.Tech in Computer Science Engineering (CSE) and is considered one of the stronger private universities in this field. CSE is the most in-demand branch at LPU, and it attracts a large number of reputed national and multinational companies every year. Students receive placement offers across roles such as software developer, data analyst, cloud engineer, cybersecurity specialist, and full-stack developer. LPU's placement ecosystem is supported by a dedicated placement cell that provides continuous training in coding, aptitude, communication skills, and i",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility criteria for the B.Tech at Dr. Ram Manohar Lohia Avadh University?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Dr. Ram Manohar Lohia Avadh University",
+                "tag_url": "https://www.shiksha.com/university/dr-ram-manohar-lohia-avadh-university-uttar-pradesh-other-19953"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vaani",
+                  "profile_url": "https://www.shiksha.com/userprofile/98035786"
+                },
+                "answer_text": "The eligibility criteria for admission to the B.Tech programme at Lovely Professional University (LPU) are clearly defined to ensure that students have the required academic background to pursue engineering studies successfully. To be eligible, a candidate must have passed 10+2 or an equivalent examination from a recognised board with Physics, Mathematics, and English as compulsory subjects. Along with these core subjects, students must have studied Chemistry, Biotechnology, Biology, or a relevant technical or vocational subject at the senior secondary level. LPU generally requires a minimum of 60% aggregate marks in the qualifying exa",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What will be the fee for B.Tech (CSE) in LPU? I have qualified LPU NEST.",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, CSE at LPU is a great choice. Being eligible for LPUNEST is an amazing accomplishment that opens up a lot of scholarship options at Lovely Professional University. Your particular scholarship bracket, which may offer significant programme price waivers, will decide your final cost. This merit-based approach guarantees that gifted kids receive top-notch instruction, assistance with international placement, and cash rewards for their outstanding academic performance. For more information kindly contact their concerned department. I hope this information helps.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many seats are available for B.Tech in CSE at LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, B.Tech at LPU is a great choice. Being one of the biggest technical hubs in India, Lovely Professional University (LPU) accepts a sizable intake for its B.Tech CSE program. LPU guarantees that a large community of prospective engineers may access top-notch infrastructure and first-rate international placement chances by providing thousands of seats in a variety of specializations, such as AI and Cyber Security. For more information kindly contact their concerned department. I hope this information helps.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
               }
             ]
           }
@@ -4574,7 +4574,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 463,
+            "views": 464,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
