@@ -462,43 +462,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "4329  Colleges"
+              "college_count": "4329Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "3667  Colleges"
+              "college_count": "3667Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "3409  Colleges"
+              "college_count": "3409Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "3308  Colleges"
+              "college_count": "3308Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "3057  Colleges"
+              "college_count": "3057Colleges"
             },
             {
               "specialization": "Information Technology",
-              "college_count": "1736  Colleges"
+              "college_count": "1736Colleges"
             },
             {
               "specialization": "Artificial Intelligence & Machine Learning",
-              "college_count": "1602  Colleges"
+              "college_count": "1602Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "1554  Colleges"
+              "college_count": "1554Colleges"
             },
             {
               "specialization": "Biotechnology Engineering",
-              "college_count": "366  Colleges"
+              "college_count": "366Colleges"
             },
             {
               "specialization": "Chemical Engineering",
-              "college_count": "364  Colleges"
+              "college_count": "364Colleges"
             }
           ]
         }
@@ -2618,20 +2618,20 @@
         }
       ],
       "top_recruiters": [
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
-        "TCS Infosys Wipro Accenture",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
-        "Oil & Gas",
-        "IT/Software",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Electrical & Electronics",
         "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "Automotive",
-        "Telecommunications",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
         "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
+        "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
+        "Telecommunications",
+        "IT/Software",
         "Aerospace",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Electrical & Electronics"
+        "Automotive",
+        "Oil & Gas",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "TCS Infosys Wipro Accenture",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)"
       ],
       "top_colleges": [
         {
@@ -4250,163 +4250,33 @@
         "stats": {
           "Questions": "61.2k",
           "Discussions": "10",
-          "Active Users": "362",
+          "Active Users": "364",
           "Followers": "201267"
         },
         "questions": [
           {
-            "question_text": "Which is the best college for BTech in Dehradun?",
+            "question_text": "What is the total tuition fee of BTech at Jaypee University of Information Technology?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "B.Tech in Dehradun",
-                "tag_url": "https://www.shiksha.com/b-tech/colleges/b-tech-colleges-accepting-bitsat-dehradun"
+                "tag_name": "Jaypee University of Information Technology",
+                "tag_url": "https://www.shiksha.com/university/jaypee-university-of-information-technology-solan-13632"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Arpita Jaiswal",
-                  "profile_url": "https://www.shiksha.com/userprofile/101474286"
+                  "name": "Anya Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/63183011"
                 },
-                "answer_text": "UPES(University of petroleum and energy studies) , This college has Ranked among top Engineering colleges nationally. Fees is around 10-20 lankh , here placement rates are too high.",
+                "answer_text": "Jaypee University of Information Technology offers a BTech programme at the UG level. It is offered in full-time mode and is approved by the AICTE. The total tuition fee of BTech at JUIT Solan ranges around INR 13.8 lakh.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Few mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better college to pursue B.Tech, LPU or Jaypee, Noida?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "For B.Tech, Jaypee Institute of Information Technology (JIIT Noida) is generally considered better than Lovely Professional University (LPU) in terms of academic reputation, coding culture, peer quality, and average placements, especially for CSE/IT branches. Jaypee has a stronger technical environment and better overall ROI, while LPU offers bigger campus infrastructure and more diverse exposure. If you're focused on core engineering quality and placements, Jaypee Noida is usually the better choice.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "39 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better college to pursue B.Tech, autonomous or JNTU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Engineering",
-                "tag_url": "https://www.shiksha.com/tags/engineering-tdp-20"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "An autonomous college is usually a better choice for B.Tech because it has an updated syllabus, flexible exams, and often better placement opportunities. JNTU-affiliated colleges follow a fixed university syllabus and stricter evaluation system. If the autonomous college has good placements, it is generally the better option.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "39 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which college is better among LPU and GITAM University?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "GITAM (Deemed to be University), Visakhapatnam",
-                "tag_url": "https://www.shiksha.com/university/gitam-deemed-to-be-university-visakhapatnam-24065"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "Choosing between Lovely Professional University (LPU) and GITAM Deemed to be University (GITAM) depends on your goals. LPU offers a bigger campus and more placement opportunities, while GITAM is known for a better academic environment and steady placements. If you want wider exposure, choose LPU; if you prefer focused academics, choose GITAM.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "41 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the best college to pursue B.Tech among KIIT University and LPU in terms of placement and packages?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "KIIT - Kalinga Institute of Industrial Technology",
-                "tag_url": "https://www.shiksha.com/university/kiit-kalinga-institute-of-industrial-technology-bhubaneswar-37926"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "Between KIIT University and Lovely Professional University, KIIT is generally better for B.Tech in terms of more consistent placements and stable average packages, especially for CSE/IT. LPU offers some very high packages but has a larger intake, so competition is higher and averages vary more.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "46 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is better among LPU, Chandigarh University and Chitkara University for B.Tech in CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "In my opinion, for B.Tech in CSE, Chitkara University is slightly better. The placements are generally stronger, the industry connections are good, and the coding culture is more active and focused. Lovely Professional University (LPU) has a very large campus and offers many opportunities, but the competition is quite high because of the large number of students. So overall, I would prefer Chitkara University for CSE.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "47 mins ago"
+                "posted_time": "58 mins ago"
               }
             ]
           },
@@ -4426,18 +4296,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
                 },
-                "answer_text": "If you are choosing between Lovely Professional University (LPU) and GITAM University for BE, then overall GITAM University is generally considered better in terms of academic reputation, campus environment, and relatively consistent placement quality, especially for core engineering branches. GITAM has a stronger brand value in South India and better industry exposure in certain streams.",
+                "answer_text": "Dear reader, As a LPU student this is my perspective towards asked question. Despite the fact that both GITAM and Lovely Professional University (LPU) are well-known engineering schools, LPU stands out due to its expansive, technologically advanced campus and curriculum that is closely aligned with worldwide industry leaders. Students have a clear competitive advantage because of its emphasis on specialised research labs, wide range of foreign credit transfer opportunities, and lively multicultural environment. LPU's dedication to promoting innovation and top-notch career readiness for each engineering student is further reinforced by i",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "49 mins ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "Which is better, LPU or BHU for B.Tech?",
+            "question_text": "How are the placements of LPU for B.Tech CSE?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4452,44 +4322,18 @@
             "answers": [
               {
                 "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                  "name": "Think with V",
+                  "profile_url": "https://www.shiksha.com/userprofile/101549228"
                 },
-                "answer_text": "For B.Tech, Banaras Hindu University (BHU) is generally better than Lovely Professional University (LPU) because it has a stronger academic reputation, higher brand value, and much lower fees since it is a central government university.",
+                "answer_text": "The placements for B.Tech in Computer Science and Engineering (CSE) at Lovely Professional University (LPU) are generally considered quite strong compared to many other private universities. LPU has a dedicated placement cell that works with a wide range of companies across sectors such as IT, software development, consulting, analytics, finance, and product development, which are highly relevant for CSE students. Every year, a significant number of CSE students receive job offers during campus placement drives, and many top recruiters visit the campus looking for fresh talent. The average salary packages for CSE graduates tend to be hi",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "50 mins ago"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "Which one is better for B.Tech among SASTRA University and LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 2,
-            "answers": [
-              {
-                "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
-                },
-                "answer_text": "SASTRA University and Lovely Professional University (LPU) for B.Tech",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "an hour ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better college to pursue B.Tech, JNTU or LPU?",
+            "question_text": "Is it necessary to appear for LPUNEST in order to take admission in LPU for B.Tech?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4504,13 +4348,169 @@
             "answers": [
               {
                 "author": {
-                  "name": "Om Khurd",
-                  "profile_url": "https://www.shiksha.com/userprofile/101543040"
+                  "name": "Think with V",
+                  "profile_url": "https://www.shiksha.com/userprofile/101549228"
                 },
-                "answer_text": "Jawaharlal Nehru Technological University (JNTU) and Lovely Professional University (LPU) for B.Tech, the “better” option depends on what you value most.",
+                "answer_text": "It is not strictly mandatory to appear for LPUNEST for B.Tech admission at Lovely Professional University (LPU) in every case, but for most students it is the primary pathway. LPU conducts LPUNEST as its own entrance examination to assess eligibility for engineering programs and to determine scholarship amounts. If a student has a valid and good score in a national-level entrance exam such as JEE Main, the university may consider that score for admission, and in such cases appearing for LPUNEST may not be required. However, students who do not have a national entrance exam score generally need to take LPUNEST to secure admission into t",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which University to choose Chandigarh University, Lovely professional University or Chandigarh group of colleges for B.Tech in CSE.",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, As a LPU student this is my perspective towards asked question. Lovely Professional University (LPU) provides a top-tier B.Tech CSE experience through its expansive, tech-driven ecosystem, even though Chandigarh University and CGC are highly renowned for their academic achievements. LPU is exceptional because of its industry-specific curriculum, state-of-the-art research facilities, and wide-ranging international collaborations that give students unmatched real-world experience. Its dynamic, multicultural setting and strong emphasis on innovation and placements guarantee that graduates are incredibly prepared for the cuttin",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which college is best to pursue B.Tech CSE amongst MSRIT, BMS and LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Ramaiah Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/ramaiah-institute-of-technology-bangalore-474"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aston Martin",
+                  "profile_url": "https://www.shiksha.com/userprofile/97712884"
+                },
+                "answer_text": "Dear reader, As a LPU student this is my perspective towards asked question. In India, Lovely Professional University (LPU) provides a distinctively contemporary and internationally focused B.Tech CSE experience, whilst MSRIT and BMS are prestigious universities with a lengthy history. With partnerships with major giants like Google and Microsoft, LPU sets itself apart with an industry-collaborated curriculum that guarantees students learn cutting-edge technologies. Its vast campus, which spans more than 600 acres, is home to specialised innovation labs, cutting-edge research facilities, and a thriving global community. Together with a",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How much does the first year of IIIT Pune B.Tech cost?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "International Institute of Information Technology, Pune",
+                "tag_url": "https://www.shiksha.com/college/international-institute-of-information-technology-pune-hinjewadi-47554"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "HARSHAL PRADEEP GOWDA",
+                  "profile_url": "https://www.shiksha.com/userprofile/100801242"
+                },
+                "answer_text": "The first year cost of IIIT Pune B.Tech is approximately 3.5 - 4 Lacs (including tuition + hostel+ mess + other fees)",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fee for BTech at VIT Pune - Vishwakarma Institute of Technology?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Vishwakarma Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/vishwakarma-institute-of-technology-bibwewadi-pune-23093"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "Vishwakarma Institute of Technology Pune BTech fees has not been revealed yet for the academic year 2026. Last year, the BTech fees at Vishwakarma Institute of Technology Pune ranged from INR 2.12 Lacs - INR 6.24 lakh. Candidates are advised to go to the website of Vishwakarma Institute of Technology Pune once the BTech admissions are open to check the fees.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NIT Arunachal Pradesh JEE Main cutoff 2025 for OBC?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Arunachal Pradesh - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-arunachal-pradesh-national-institute-of-technology-arunachal-pradesh-other-32742"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "According to the NIT Arunachal Pradesh BTech cutoff 2025 for the OBC AI category, the overall cutoff varied between 8938 and 124447 in the first and last rounds, respectively. For the OBC HS quota candidates, the first and last round closing ranks fell between 35124 and 256143 , respectively. For both quotas, the BTech CSE branch was the most competitive for admission.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NIT Arunachal Pradesh JEE Main cutoff 2025?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Arunachal Pradesh - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-arunachal-pradesh-national-institute-of-technology-arunachal-pradesh-other-32742"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "NIT Arunachal Pradesh JEE Main cutoff 2025 was concluded with the final round of cutoff being released. The cutoff was declared for students belonging to both the All India and Home State quota. For the General AI category, the overall cutoff ranged from 26036 to 109600 for various BTech course specialisations. Among all, the hardest for admission was BTech in Computer Science and Engineering , with the first and last round cutoff being 26036 and 44623 , respectively. Please remember that other categories will have different cutoffs accordingly.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "8 hours ago"
               }
             ]
           }
