@@ -469,11 +469,11 @@
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "3308Colleges"
+              "college_count": "3309Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "3057Colleges"
+              "college_count": "3056Colleges"
             },
             {
               "specialization": "Information Technology",
@@ -2613,20 +2613,20 @@
         }
       ],
       "top_recruiters": [
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
-        "Oil & Gas",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
-        "IT/Software",
-        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
-        "Electrical & Electronics",
         "Automotive",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
+        "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
+        "Aerospace",
+        "Oil & Gas",
         "Telecommunications",
+        "IT/Software",
+        "Electrical & Electronics",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
         "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
-        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
         "TCS Infosys Wipro Accenture",
-        "Aerospace"
+        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung"
       ],
       "top_colleges": [
         {
@@ -3489,7 +3489,9 @@
       "introduction": {
         "text": [
           "BTechdegreesoffer specialised training in specific technological and engineering fields.BTech specialisationssuch asChemical Engineering,Computer Science Engineering,Civil Engineering,Electrical Engineering, andMechanical Engineeringequip students with practical skills and knowledge directly applicable to industry demands.",
-          "In contrast,BScdegreesprovide a foundational understanding of various scientific disciplines, includingPhysics,Chemistry,Biology,Mathematics, and Computer Science. This broad-based curriculum covers areas like applied science, life science, physical science, and computing science."
+          "In contrast,BScdegreesprovide a foundational understanding of various scientific disciplines, includingPhysics,Chemistry,Biology,Mathematics, and Computer Science. This broad-based curriculum covers areas like applied science, life science, physical science, and computing science.",
+          "Both BTech and BSc graduates can pursue master's and doctoral degrees.Practical experience through internships and projects is crucial for both degrees, and developing soft and technical skills. Ultimately, the best way to choose between BTech and BSc is to explore your interests, research different specializations, and consider your long-term career goals.",
+          "BTech graduates typically secure higher starting salaries, particularly inengineering and IT roles, and enjoy a broader job market compared to BSc graduates. While many BSc graduates opt for further studies to enhance their career prospects. The demand fordata scientists and analysts, who often have a BSc background, is increasing rapidly."
         ],
         "image": null
       },
@@ -3508,8 +3510,7 @@
           "heading": "BTech vs BSc Course Details: Highlights",
           "content": [
             "Choosing between a BTech and a BSc is a pivotal decision that can significantly influence your career trajectory. While both degrees offer valuable knowledge and skills, they cater to distinct career paths and skill sets. Let's delve into the key differences between both courses:",
-            "Note- This information is sourced from the official website and may vary.",
-            "Generally, a BTech offers higher starting salaries and a wider range of job opportunities in core engineering sectors, IT, and software development . On the other hand, a BSc opens up chances to work in research arenas, and for higher study and jobs in the government sector (preferably) and industries based on the specialisation area of the subject like Biotechnology , Chemistry, and Physics , etc., and the salary differs according to the field."
+            "Note- This information is sourced from the official website and may vary."
           ],
           "tables": [
             [
@@ -3582,8 +3583,9 @@
           ]
         },
         {
-          "heading": "BTech vs BSc: Eligibility",
+          "heading": "Difference Between BTech vs BSc: Which is Better?",
           "content": [
+            "Generally, a BTech offers higher starting salaries and a wider range of job opportunities in core engineering sectors, IT, and software development . On the other hand, a BSc opens up chances to work in research arenas, and for higher study and jobs in the government sector (preferably) and industries based on the specialisation area of the subject like Biotechnology , Chemistry, and Physics , etc., and the salary differs according to the field.",
             "The engineering sector, which primarily recruits BTech graduates, has shown consistent growth in India. However, the job market for BSc graduates is also expanding due to increasing research and development activities. While BTech graduates generally have higher starting salaries, the gap is narrowing in some sectors. BSc graduates with specialised skills and experience can intake competitive salaries too.",
             "Ultimately, the choice between BTech and BSc depends on individual interests and career goals. Those inclined towards a broader scientific education and potential research-oriented paths may lean towards a BSc. Conversely, individuals seeking a profession in technology or engineering will find a BTech degree more suitable.",
             "What is BTech?",
@@ -3591,32 +3593,14 @@
             "What is BSc?",
             "BSc (Bachelor of Science) is a broader undergraduate degree covering various scientific disciplines. It provides a strong foundation in theoretical knowledge and research methodologies. While it can specialize in a particular science field, its scope is generally wider than BTech.",
             "Choose BTech if:",
-            "Choose BSc if:",
-            "While both BTech and BSc are undergraduate degrees, their eligibility criteria differ significantly due to the nature of the courses.",
-            "Both BSc and BTech can offer specializations in emerging fields like Data Science and Biotechnology . However, the approach might differ, with BTech focusing more on the technical aspects and applications. Some specializations, like Computer Science, might have a slightly different focus between BSc and BTech programs (BSc emphasizes software development, while BTech might incorporate hardware and software integration).",
-            "The below table covers popular specializations within the BTech field, where CSE and ECE are the top two specialisations that are in demand across India:",
-            "BSc stream provides many specializations and sub-specialisations within the fields itself, making it a popular choice among science students. They can opt for fields as per their choices and grow their knowledge further by choosing the sub-specialisations accordingly:",
-            "JEE Main is the prominent and popular national-level exam for BTech courses, while for BSc there is no such prominent or relevant to BSc courses. Whereas entrance to BTech courses is highly competitive, on the other side most BSc programs do not require mandatory entrance exams. Admission is typically based on the candidate's performance in the 12th board exams.",
-            "BTech vs BSc: Syllabus",
-            "The primary difference between BTech syllabus and BSc syllabus lies in their focus, i.e. practical and theoretical knowledge. Core subjects like maths, physics, and chemistry, while subjects per each program's specializations vary.",
-            "The top colleges for both of the fields are given below along with their tuition fees.",
-            "There are more than 4700 Engineering colleges in India which offer BTech courses. Candidates can choose amongst top private and government colleges to pursue BTech in different specialisations. Some of the top colleges with their fees are:",
-            "Note- This information is sourced from the official website/ counselling body and may vary.",
-            "BTech and MCA Relevant Information:",
-            "JEE Main Marks vs Percentile",
-            "JEE Main Chapter wise Weightage",
-            "Top BSc Colleges",
-            "Delhi University consistently ranks among the top institutions for BSc programs. Apart from Delhi University, several other colleges across India offer exceptional BSc programs as listed below:",
-            "Note- This information is sourced from the official website/ counselling body and may vary.",
-            "BTech graduates, especially in engineering and IT fields, generally command higher starting salaries compared to BSc graduates. This is due to the strong demand for skilled engineers and technologists in various industries. While starting salaries might be lower compared to BTech in some sectors, BSc graduates with specialized skills and experience can earn competitive salaries. Fields like data science, biotechnology, and environmental science often offer lucrative opportunities.",
-            "The highest package offered to BTech graduates in various recruitment drives ranges from INR 30- 60 LPA. The top job profiles for BTech graduates and their salaries are given below:",
-            "Note- The above salary has been taken from external sources, and hence may vary.",
-            "BTech and MCA Important Information You Might Be Interested In:",
-            "Career in Engineering",
-            "BTech Career",
-            "Salaries tend to be higher for certain specialisations with higher demand or requiring specific skillsets. For instance, graduates with a BSc in Data Science or Biotechnology might command higher salaries compared to those with a general BSc degree.",
-            "BSc scope is available across industries such as scientific research and development, healthcare and Medicine , Education and Academia, Information Technology, Environmental Science, and Quality Assurance and Control. The table below brings some of the BSc jobs along with the average salary offered.",
-            "Note- The above salary has been taken from external sources, and hence may vary."
+            "Choose BSc if:"
+          ],
+          "tables": []
+        },
+        {
+          "heading": "BTech vs BSc: Eligibility",
+          "content": [
+            "While both BTech and BSc are undergraduate degrees, their eligibility criteria differ significantly due to the nature of the courses."
           ],
           "tables": [
             [
@@ -3635,7 +3619,29 @@
                 "BTech": "JEE Main, JEE Advanced, WBJEE, KEAM, AP EAMCET, TS EAMCET",
                 "MCA": "MHT CET, KCET, CUET, CG PAT, etc."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "BSc Specializations vs BTech Specializations",
+          "content": [
+            "Both BSc and BTech can offer specializations in emerging fields like Data Science and Biotechnology . However, the approach might differ, with BTech focusing more on the technical aspects and applications. Some specializations, like Computer Science, might have a slightly different focus between BSc and BTech programs (BSc emphasizes software development, while BTech might incorporate hardware and software integration).",
+            "The below table covers popular specializations within the BTech field, where CSE and ECE are the top two specialisations that are in demand across India:",
+            "BSc stream provides many specializations and sub-specialisations within the fields itself, making it a popular choice among science students. They can opt for fields as per their choices and grow their knowledge further by choosing the sub-specialisations accordingly:",
+            "JEE Main is the prominent and popular national-level exam for BTech courses, while for BSc there is no such prominent or relevant to BSc courses. Whereas entrance to BTech courses is highly competitive, on the other side most BSc programs do not require mandatory entrance exams. Admission is typically based on the candidate's performance in the 12th board exams.",
+            "BTech vs BSc: Syllabus",
+            "The primary difference between BTech syllabus and BSc syllabus lies in their focus, i.e. practical and theoretical knowledge. Core subjects like maths, physics, and chemistry, while subjects per each program's specializations vary.",
+            "The top colleges for both of the fields are given below along with their tuition fees.",
+            "There are more than 4700 Engineering colleges in India which offer BTech courses. Candidates can choose amongst top private and government colleges to pursue BTech in different specialisations. Some of the top colleges with their fees are:",
+            "Note- This information is sourced from the official website/ counselling body and may vary.",
+            "BTech and MCA Relevant Information:",
+            "JEE Main Marks vs Percentile",
+            "JEE Main Chapter wise Weightage",
+            "Top BSc Colleges",
+            "Delhi University consistently ranks among the top institutions for BSc programs. Apart from Delhi University, several other colleges across India offer exceptional BSc programs as listed below:",
+            "Note- This information is sourced from the official website/ counselling body and may vary."
+          ],
+          "tables": [
             [
               {
                 "Popular BTech Specialisations": "Artificial Intelligence and Machine Learning",
@@ -3813,7 +3819,23 @@
                 "Name of College": "Manipal Academy of Higher Education",
                 "Tuition Fees": "INR 2.1 - 7.4 Lakh"
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "BTech vs BSc Salary: Jobs and Salaries",
+          "content": [
+            "BTech graduates, especially in engineering and IT fields, generally command higher starting salaries compared to BSc graduates. This is due to the strong demand for skilled engineers and technologists in various industries. While starting salaries might be lower compared to BTech in some sectors, BSc graduates with specialized skills and experience can earn competitive salaries. Fields like data science, biotechnology, and environmental science often offer lucrative opportunities.",
+            "The highest package offered to BTech graduates in various recruitment drives ranges from INR 30- 60 LPA. The top job profiles for BTech graduates and their salaries are given below:",
+            "Note- The above salary has been taken from external sources, and hence may vary.",
+            "BTech and MCA Important Information You Might Be Interested In:",
+            "Career in Engineering",
+            "BTech Career",
+            "Salaries tend to be higher for certain specialisations with higher demand or requiring specific skillsets. For instance, graduates with a BSc in Data Science or Biotechnology might command higher salaries compared to those with a general BSc degree.",
+            "BSc scope is available across industries such as scientific research and development, healthcare and Medicine , Education and Academia, Information Technology, Environmental Science, and Quality Assurance and Control. The table below brings some of the BSc jobs along with the average salary offered.",
+            "Note- The above salary has been taken from external sources, and hence may vary."
+          ],
+          "tables": [
             [
               {
                 "Engineering Job Profile": "Software Engineer",
@@ -4250,15 +4272,15 @@
         },
         "questions": [
           {
-            "question_text": "Is MNIT Jaipur best college for BTech in India?",
+            "question_text": "Can NIT Hamirpur be considered the best university for BTech in India?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "MNIT Jaipur - Malaviya National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/mnit-jaipur-malaviya-national-institute-of-technology-24372"
+                "tag_name": "National Institute of Technology, NIT H",
+                "tag_url": "https://www.shiksha.com/university/nit-hamirpur-national-institute-of-technology-24395"
               }
             ],
             "followers": 0,
@@ -4268,244 +4290,244 @@
                   "name": "Shruti Manchanda",
                   "profile_url": "https://www.shiksha.com/userprofile/101329054"
                 },
-                "answer_text": "MNIT Jaipur is one of the best colleges especially for the BTech course. It is known for its academic standards, faculty, and placement record. The college also provides good placement offers. It is one of the best, but whether it is \"the best\" depends upon individual preferences and professional goals.",
+                "answer_text": "NIT Hamirpur is one of the best universities mainly for the BTech course. It has a good faculty, and placement record. The college also provides good placement offers. It is one of the best, but whether it is \"the best\" depends upon the preference of the students.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Few mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIIT Una JEE Mains cutoff for OBC?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Una - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Una JEE Mains cutoff 2025 for the OBC AI category ranged from 11776 to 14238 in the first round, wherein BTech CSE was the toughest specialisation for admission. This cutoff range later increased to 59699 and 79526 in the last round, with BTech CSE remaining as the most competitive specialisation. Students can refer to the table below to know the initial and last round closing cutoff for this category. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Computer Science and Engineering 11776 59699 B.Tech. in Electronics and Communication Engineering 14238 79526 B.Tech. in Computer Science and Engineering (Cyber Security) 12868 63851 B.Tech. in Computer Science and Engineering (Data Science) 12405 63037",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "21 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIIT Una JEE Mains cutoff for CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Una - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Una JEE Main cutoff 2025 was published for various All India categories for the BTech CSE course. For the General AI category, the overall closing cutoff was 29642 and 42692 for the BTech CSE course. On the other hand, for the OBC AI quota, the cutoff was 59699 . Candidates can see the table below to know the round 1 and last round cutoff for the aforementioned programme. Category Round 1 (Closing Rank) Last Round (Closing Rank) SC 7232 200387 ST 3805 390461 EWS 4725 55304 PWD 925 723399",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "28 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the closing rank for IIIT Una for the JEE Main exam?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Una - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Una JEE Main cutoff 2025 has been published for admission to various BTech course branches for All India category students. For the General AI quota, the closing ranks ranged from 29642 to 60792 , with the top branches like BTech CSE and BTech CSE (Data Science) closing admissions earlier than others. These specialisations had the last round closing rank at 42692 and 45713 , respectively. Students can refer to the table below for the closing ranks range for all other AI categories. Category JEE Advanced Closing Cutoff Range 2025 OBC 11776 to 79526 SC 7232 to 227809 ST 3555 to 554969 EWS 4725 to 77644 PWD 925 to 1296720",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "38 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the median package recorded during AMU BTech placements?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "Aligarh Muslim University",
+                "tag_url": "https://www.shiksha.com/university/aligarh-muslim-university-29839"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aayush Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587256"
+                },
+                "answer_text": "The median package recorded during AMU BTech placements 2024 was 6 LPA. In 2023, the median package received was 6 LPA as well.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is the BTech fees refunded to candidates at GNA University upon cancellation of admissions?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "GNA University",
+                "tag_url": "https://www.shiksha.com/university/gna-university-phagwara-46926"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "Yes, candidates who decide to cancel their admission to the GNA University BTech course can receive refunds. However, these refunds are offered in accordance with the UGC norms. The UGC norms state that any candidates who cancels their admission to a course after 30 days of the commencement of the course will not be offered any refunds.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which documents will I need to complete the GNA University BTech admission process?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "GNA University",
+                "tag_url": "https://www.shiksha.com/university/gna-university-phagwara-46926"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "GNA University BTech admission process requires candidates to provide copies of the following documents in digital mode: Class 10th and Class 12th passing certificate as well as marksheet JEE Mains scorecard ID and address proof Passport sized photographs Scanned images of candidate's signature Transfer certificate Migration certificate",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How can I get admission in LPU to pursue B.Tech through lateral entry after completing Diploma?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "udit Katiyar",
+                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                },
+                "answer_text": "You can get admission to B.Tech through lateral entry at Lovely Professional University after completing a Diploma by following a few simple steps. Candidates must have a 3-year engineering Diploma (or equivalent) with around 60% aggregate marks to be eligible. Apply online through the LPU admission portal, upload academic documents, and complete the application process. Admission is usually based on Diploma marks, though LPUNEST may be required for some branches or for scholarship benefits. Once selected, you join directly in the 2nd year (3rd semester) of B.Tech, reducing the degree duration to three years. Scholarships may also be ava",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "I have a score of 67% over all but 54% in mathematics. Can I get admission for a B.Tech in LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "udit Katiyar",
+                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                },
+                "answer_text": "With 67% overall in 10+2, you meet the general eligibility for B.Tech at LPU. However, the university usually requires around 60% aggregate with Physics, Mathematics and English, so having 54% in Mathematics may fall slightly short of the subject requirement. In such cases, admission may still be possible through LPUNEST qualification, improvement/reappear, or approval from the admission office depending on the programme and year guidelines. It's best to confirm with admissions, as they sometimes consider overall merit and entrance performance.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the IIIT Surat cutoff 2025 for OBC?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "IIIT Surat - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-surat-indian-institute-of-information-technology-53849"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "IIIT Surat cutoff 2025 for the OBC AI quota was released for admission to  BTech branches based on the JEE Main entrance exam. For the OBC AI category, the overall cutoff ranged from 9880 to 71693 . According to the last round, the most competitive specialisation for admission was BTech CSE. Candidates can refer to the table below to know the round 1 and last round cutoff for the OBC AI category. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Computer Science and Engineering 9880 52814 B.Tech. in Electronics and Communication Engineering 13356 71693 B.Tech. in Computer Science and Engineering (Cyber Security) 10010 58708 B.Tech. in Computer Science and Engineering (Artificial Intelligence and Machine Learning) 10304 48272",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIIT Nagpur CSE cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Nagpur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-nagpur-indian-institute-of-information-technology-53876"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Nagpur CSE cutoff 2025 was released for admission to the BTech CSE course for various All India categories. For the General AI category, the first and last round closing cutoff 25974 and 35506 . Students can refer to the table below to know the first and last rounds for all other categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) OBC 9982 44491 SC 6151 183023 ST 3361 308901 PWD 871 520314 EWS 4162 39664",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the cutoff for IIIT Manipur 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Manipur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-manipur-indian-institute-of-information-technology-imphal-53865"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Manipur cutoff 2025 was released for admission to various BTech course specialisations for All India category students. For the General AI category, the overall cutoff ranged from 48433 to 207984 . Considering the last round, the hardest BTech specialisation was BTech in Computer Science and Engineering (Artificial Intelligence and Data Science) . For more information, candidates can click here .",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIIT Manipur CSE cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Manipur - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-manipur-indian-institute-of-information-technology-imphal-53865"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Manipur CSE cutoff 2025 was concluded with the release of the final round of cutoffs for various categories under the All India quota. For the General AI category, the overall cutoff ranged from 48986 to 119721 , according to the first and last round closing cutoff. Students can refer to the table below to know the first and last rounds for other categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) OBC 16048 150821 SC 9343 308203 ST 4642 672155 EWS 7313 153654",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is a better college to pursue B.Tech, LPU or Jaypee, Noida?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "B.Tech at Lovely Professional University is a popular choice among engineering aspirants in India due to its modern curriculum, industry exposure, and strong infrastructure. The programme offers specialisations such as Computer Science, Mechanical, Civil, Electronics, Artificial Intelligence, and more. Students benefit from well-equipped labs, experienced faculty, internships, live projects, and global exchange opportunities. The university emphasizes skill development, coding practice, and research activities. Regular workshops, hackathons, and technical events enhance practical knowledge. LPU also provides dedicated placement trainin",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is 13,000 a good rank in JEE Main for NIT Nagaland?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Nagaland - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-nagaland-national-institute-of-technology-dimapur-39201"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "Yes,  13K is a good rank in JEE Main for admission at NIT Nagaland , if you belong to the General AI category. This category had the first and last round cutoff ranging from 32418 to 111764 in the last round. Hence, admission with a 13K rank is possible for the General AI category candidates; other categories will have different qualifying cutoffs.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which is the best college to pursue B.Tech among KIIT University and LPU in terms of placement and packages?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "KIIT - Kalinga Institute of Industrial Technology",
-                "tag_url": "https://www.shiksha.com/university/kiit-kalinga-institute-of-industrial-technology-bhubaneswar-37926"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vidushi SharmaAuthor, research analyst, content writer, student",
-                  "profile_url": "https://www.shiksha.com/userprofile/50110545"
-                },
-                "answer_text": "B.Tech CSE placements at Lovely Professional University are considered strong compared to many private universities in India. The university invites numerous national and multinational companies every year, offering roles in software development, data analytics, cybersecurity, AI, and consulting. Top recruiters include IT giants, startups, and product-based firms. Students with good coding skills, projects, and internships often secure higher packages. The average package is moderate, while top performers can receive impressive offers. Placement support, training programs, mock interviews, and industry-oriented curriculum help students",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "7 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the NIT Nagaland JEE Main cutoff for CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "NIT Nagaland - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-nagaland-national-institute-of-technology-dimapur-39201"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "NIT Nagaland JEE Main cutoff 2025 for the CSE course was released for admission for all rounds and categories under the All India quota. For the General AI category, the cutoff in the first round was 32418, and in the last round, it was 56055 . On the other hand, for the OBC AI quota, the cutoff in the first and last rounds ranged from 10142 to 60217 . Students can see the table below to know the first and last round data for all other AI categories. Category Round 1 (Closing Rank) Last Round (Closing Rank) SC 4187 129878 EWS 4946 61897",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Sir, does CGPA matters for best placements in LPU?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Arshia Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
-                },
-                "answer_text": "Yes sir, CGPA does matter for placements at LPU , but it is not everything. Many companies keep a minimum CGPA cutoff (often around 7-8) just for eligibility and shortlisting. If your CGPA is higher, it definitely helps in getting shortlisted for better companies. However, for the best placements , companies focus more on: Technical skills (especially for CSE/IT) Projects and internships Problem-solving ability Communication and interview performance",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is LPU a good university to do B.Tech in ECE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "LPU - Lovely Professional University",
-                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Arshia Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
-                },
-                "answer_text": "LPU for B.Tech in ECE is a good option, but it's important to keep expectations realistic. Academically, the curriculum covers the standard ECE subjects like analog/digital electronics, signals & systems, communication systems, VLSI basics, and embedded systems . Labs and infrastructure are decent for practical exposure, but how much you actually learn depends a lot on your own effort. When it comes to placements, most ECE students at LPU either: Get placed in IT/service-based companies , or Move into software roles after learning coding alongside ECE Core electronics placements (like semiconductor or hardcore telecom roles) ar",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "8 hours ago"
               }
             ]
           }
