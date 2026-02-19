@@ -2613,20 +2613,20 @@
         }
       ],
       "top_recruiters": [
+        "Electrical & Electronics",
         "Automotive",
-        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
         "Larsen &Toubro Tata Motors Mahindra & Mahindra Bharat Heavy Electricals Limited (BHEL) Steel Authority of India Limited (SAIL)",
         "Hindustan Aeronautics Limited (HAL) Indian Space Research Organization (ISRO) Mahindra Defence Airbus Boeing",
-        "Aerospace",
-        "Oil & Gas",
+        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung",
         "Telecommunications",
-        "IT/Software",
-        "Electrical & Electronics",
-        "Core Engineering (Mechanical, Civil, Electrical, etc.)",
         "Bharti Airtel Reliance Jio Vodafone Idea Tata Communications",
+        "Indian Oil Corporation Limited (IOCL) Bharat Petroleum Corporation Limited (BPCL)",
+        "Oil & Gas",
+        "IT/Software",
         "TCS Infosys Wipro Accenture",
-        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai",
-        "Power Grid Corporation of India Limited (PGCIL) NTPC Siemens Samsung"
+        "Aerospace",
+        "Tata Motors Mahindra & Mahindra Maruti Suzuki Hyundai"
       ],
       "top_colleges": [
         {
@@ -4263,138 +4263,34 @@
     "QAN": {
       "QA": {
         "tag_name": "B.Tech",
-        "description": "Get insights from 61.2k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
+        "description": "Get insights from 61.3k questions on B.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about B.Tech",
         "stats": {
-          "Questions": "61.2k",
+          "Questions": "61.3k",
           "Discussions": "10",
-          "Active Users": "364",
+          "Active Users": "366",
           "Followers": "201267"
         },
         "questions": [
           {
-            "question_text": "Can NIT Hamirpur be considered the best university for BTech in India?",
+            "question_text": "Is it a good choice to pursue Diploma and B.Tech in mechanical engineering from LPU? Does LPU provide 100 percent placement?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "National Institute of Technology, NIT H",
-                "tag_url": "https://www.shiksha.com/university/nit-hamirpur-national-institute-of-technology-24395"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
               }
             ],
-            "followers": 0,
+            "followers": 1,
             "answers": [
               {
                 "author": {
-                  "name": "Shruti Manchanda",
-                  "profile_url": "https://www.shiksha.com/userprofile/101329054"
+                  "name": "Arshia Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
                 },
-                "answer_text": "NIT Hamirpur is one of the best universities mainly for the BTech course. It has a good faculty, and placement record. The college also provides good placement offers. It is one of the best, but whether it is \"the best\" depends upon the preference of the students.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Few mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIIT Una JEE Mains cutoff for OBC?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Una - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Una JEE Mains cutoff 2025 for the OBC AI category ranged from 11776 to 14238 in the first round, wherein BTech CSE was the toughest specialisation for admission. This cutoff range later increased to 59699 and 79526 in the last round, with BTech CSE remaining as the most competitive specialisation. Students can refer to the table below to know the initial and last round closing cutoff for this category. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Computer Science and Engineering 11776 59699 B.Tech. in Electronics and Communication Engineering 14238 79526 B.Tech. in Computer Science and Engineering (Cyber Security) 12868 63851 B.Tech. in Computer Science and Engineering (Data Science) 12405 63037",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "21 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIIT Una JEE Mains cutoff for CSE?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Una - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Una JEE Main cutoff 2025 was published for various All India categories for the BTech CSE course. For the General AI category, the overall closing cutoff was 29642 and 42692 for the BTech CSE course. On the other hand, for the OBC AI quota, the cutoff was 59699 . Candidates can see the table below to know the round 1 and last round cutoff for the aforementioned programme. Category Round 1 (Closing Rank) Last Round (Closing Rank) SC 7232 200387 ST 3805 390461 EWS 4725 55304 PWD 925 723399",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "28 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the closing rank for IIIT Una for the JEE Main exam?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "IIIT Una - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-una-indian-institute-of-information-technology-46856"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "IIIT Una JEE Main cutoff 2025 has been published for admission to various BTech course branches for All India category students. For the General AI quota, the closing ranks ranged from 29642 to 60792 , with the top branches like BTech CSE and BTech CSE (Data Science) closing admissions earlier than others. These specialisations had the last round closing rank at 42692 and 45713 , respectively. Students can refer to the table below for the closing ranks range for all other AI categories. Category JEE Advanced Closing Cutoff Range 2025 OBC 11776 to 79526 SC 7232 to 227809 ST 3555 to 554969 EWS 4725 to 77644 PWD 925 to 1296720",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "38 mins ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the median package recorded during AMU BTech placements?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "Aligarh Muslim University",
-                "tag_url": "https://www.shiksha.com/university/aligarh-muslim-university-29839"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Aayush Singh",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587256"
-                },
-                "answer_text": "The median package recorded during AMU BTech placements 2024 was 6 LPA. In 2023, the median package received was 6 LPA as well.",
+                "answer_text": "Pursuing Diploma and B.Tech in Mechanical Engineering from Lovely Professional University is a good choice if you focus on practical skills and internships along with academics. Mechanical at LPU offers labs, workshops, industrial visits, and some industry exposure. However, placements in core mechanical companies are usually limited compared to CSE/IT. Many students also get placed in manufacturing, automobile, or sometimes non-core roles depending on their skills. Regarding 100 percent placement: No university can realistically guarantee 100 percent placement for every student. LPU conducts large placement drives, but actual placement",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "an hour ago"
@@ -4402,59 +4298,7 @@
             ]
           },
           {
-            "question_text": "Is the BTech fees refunded to candidates at GNA University upon cancellation of admissions?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "GNA University",
-                "tag_url": "https://www.shiksha.com/university/gna-university-phagwara-46926"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "Yes, candidates who decide to cancel their admission to the GNA University BTech course can receive refunds. However, these refunds are offered in accordance with the UGC norms. The UGC norms state that any candidates who cancels their admission to a course after 30 days of the commencement of the course will not be offered any refunds.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which documents will I need to complete the GNA University BTech admission process?",
-            "tags": [
-              {
-                "tag_name": "B.Tech",
-                "tag_url": "https://www.shiksha.com/engineering-chp6"
-              },
-              {
-                "tag_name": "GNA University",
-                "tag_url": "https://www.shiksha.com/university/gna-university-phagwara-46926"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "GNA University BTech admission process requires candidates to provide copies of the following documents in digital mode: Class 10th and Class 12th passing certificate as well as marksheet JEE Mains scorecard ID and address proof Passport sized photographs Scanned images of candidate's signature Transfer certificate Migration certificate",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How can I get admission in LPU to pursue B.Tech through lateral entry after completing Diploma?",
+            "question_text": "How is Lovely Professional University (LPU) for a B.Tech and its placements?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4469,18 +4313,70 @@
             "answers": [
               {
                 "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                  "name": "Arshia Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/101257878"
                 },
-                "answer_text": "You can get admission to B.Tech through lateral entry at Lovely Professional University after completing a Diploma by following a few simple steps. Candidates must have a 3-year engineering Diploma (or equivalent) with around 60% aggregate marks to be eligible. Apply online through the LPU admission portal, upload academic documents, and complete the application process. Admission is usually based on Diploma marks, though LPUNEST may be required for some branches or for scholarship benefits. Once selected, you join directly in the 2nd year (3rd semester) of B.Tech, reducing the degree duration to three years. Scholarships may also be ava",
+                "answer_text": "Lovely Professional University (LPU) for B.Tech is generally considered a good option among private universities, especially for students who want a large campus environment with good infrastructure and exposure. Academically, the curriculum in most B.Tech branches is industry-oriented and updated. Labs, workshops, coding platforms (for CSE), and technical clubs are available. However, since the intake is large, learning outcomes depend a lot on how proactive the student is. Placements are stronger in branches like CSE and IT , where many companies (especially service-based and some product-based) visit campus. Core branches like Mechanic",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "I have a score of 67% over all but 54% in mathematics. Can I get admission for a B.Tech in LPU?",
+            "question_text": "Can I do B.Tech without WBJEE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "WBJEE",
+                "tag_url": "https://www.shiksha.com/engineering/wbjee-exam"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saakshi Varsha Lama",
+                  "profile_url": "https://www.shiksha.com/userprofile/27726061"
+                },
+                "answer_text": "For state level BTech colleges in West Bengal, some seats are reserved for JEE Main qualified candidates. However, most seats are filled through WBJEE. However, private colleges will accept admissions without WBJEE.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Sir, does CGPA matters for best placements in LPU?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 1,
+            "answers": [
+              {
+                "author": {
+                  "name": "Your fellow learner",
+                  "profile_url": "https://www.shiksha.com/userprofile/101547006"
+                },
+                "answer_text": "Honestly, CGPA does matter at LPU for placements, but it is not the only deciding factor. From what I have seen and heard from seniors, a decent CGPA helps you clear the initial shortlisting because many companies keep a cutoff. If your CGPA is low, you may not even get the chance to sit for some drives. After that, skills, projects, coding rounds, communication and interview performance matter much more. I have seen people with average CGPA getting good offers because they had strong practical skills and internship experience. So the best approach is to keep your CGPA at a safe level so you stay eligible and at the same time focus on bui",
+                "upvotes": 2,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is a better university to pursue B.Tech in CSE among LPU and Amity University?",
             "tags": [
               {
                 "tag_name": "B.Tech",
@@ -4495,26 +4391,52 @@
             "answers": [
               {
                 "author": {
-                  "name": "udit Katiyar",
-                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                  "name": "Your fellow learner",
+                  "profile_url": "https://www.shiksha.com/userprofile/101547006"
                 },
-                "answer_text": "With 67% overall in 10+2, you meet the general eligibility for B.Tech at LPU. However, the university usually requires around 60% aggregate with Physics, Mathematics and English, so having 54% in Mathematics may fall slightly short of the subject requirement. In such cases, admission may still be possible through LPUNEST qualification, improvement/reappear, or approval from the admission office depending on the programme and year guidelines. It's best to confirm with admissions, as they sometimes consider overall merit and entrance performance.",
-                "upvotes": 0,
+                "answer_text": "Honestly, I had the LPU vs Amity confusion for a long time because online both look perfect. What helped was talking to a CSE friend at LPU. He was more worried about his project and coding practice than exams, which showed me the real priority. From what I heard, students there start working on skills, hackathons and internships pretty early, and that kind of environment pushes you to do the same. Of course LPU is huge so you have to push yourself to stand out, but the opportunities are there. Amity has a good campus and exposure too, but for CSE, the daily practice and peer learning culture felt more active at LPU. So both are decent, b",
+                "upvotes": 1,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "4 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the IIIT Surat cutoff 2025 for OBC?",
+            "question_text": "Does LPU offer lateral entry to BTech course?",
             "tags": [
               {
                 "tag_name": "B.Tech",
                 "tag_url": "https://www.shiksha.com/engineering-chp6"
               },
               {
-                "tag_name": "IIIT Surat - Indian Institute of Information Technology",
-                "tag_url": "https://www.shiksha.com/college/iiit-surat-indian-institute-of-information-technology-53849"
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "shikha verma",
+                  "profile_url": "https://www.shiksha.com/userprofile/47283769"
+                },
+                "answer_text": "Yes, Lovely Professional University (LPU) offers lateral entry admission to the B.Tech program, allowing eligible candidates who have completed a Diploma in engineering or a relevant qualification to join directly in the second year (third semester) of the course, subject to meeting the university's eligibility criteria, qualifying requirements such as LPUNEST (if applicable), and completing the counseling and admission process.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NIT Silchar JEE Main cutoff 2025 for CSE?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "National Institute of Technology (NIT Silchar)",
+                "tag_url": "https://www.shiksha.com/university/nit-silchar-national-institute-of-technology-28583"
               }
             ],
             "followers": 0,
@@ -4524,10 +4446,88 @@
                   "name": "Neerja Rohatgi",
                   "profile_url": "https://www.shiksha.com/userprofile/97214830"
                 },
-                "answer_text": "IIIT Surat cutoff 2025 for the OBC AI quota was released for admission to  BTech branches based on the JEE Main entrance exam. For the OBC AI category, the overall cutoff ranged from 9880 to 71693 . According to the last round, the most competitive specialisation for admission was BTech CSE. Candidates can refer to the table below to know the round 1 and last round cutoff for the OBC AI category. Course Round 1 (Closing Rank) Last Round (Closing Rank) B.Tech. in Computer Science and Engineering 9880 52814 B.Tech. in Electronics and Communication Engineering 13356 71693 B.Tech. in Computer Science and Engineering (Cyber Security) 10010 58708 B.Tech. in Computer Science and Engineering (Artificial Intelligence and Machine Learning) 10304 48272",
+                "answer_text": "NIT Silchar JEE Main cutoff 2025 for the BTech CSE course was declared for various categories under both the AI and HS quota. For the General AI category, the NIT Silchar BTech cutoff 2025 ranged from 11112 in the first round to 16053 in the last round. In contrast, for the General HS quota, the cutoff in the first round was 21987 , which later increased to 23668 in the last round. Candidates can click here to know the category, round and quota-wise closing ranks for the BTech CSE and other branches.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "9 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NIT Silchar cutoff 2025 for OBC?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "National Institute of Technology (NIT Silchar)",
+                "tag_url": "https://www.shiksha.com/university/nit-silchar-national-institute-of-technology-28583"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "NIT Silchar JEE Main cutoff 2025 was released for admission to various BTech branches. For the OBC AI quota, the last round cutoff ranged from 22816 to 50608 , wherein BTech CSE was the most competitive specialisation. For the OBC HS quota, the last round cutoff ranged from 53238 to 160606 , where BTech CSE was the most difficult branch for admission. Students can refer to the table below to know the last round cutoff for the OBC category for both quotas. Course OBC AI Quota OBC HS quota B.Tech. in Computer Science and Engineering 22816 53238 B.Tech. in Electronics and Communication Engineering 26214 91198 B.Tech. in Electronics and Instrumentation Engineering 32408 98779 B.Tech. in Electrical Engineering 36003 119418 B.Tech. in Mechanical Engineering 50608 141210 B.Tech. in Civil Engineering 65903 160606",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "9 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the cutoff percentile for NIT Sikkim for JEE Main?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Sikkim - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-sikkim-national-institute-of-technology-sikkim-other-39335"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "NIT Sikkim JEE Main cutoff 2025 was declared for admission to various BTech course specialisations for multiple categories under the All India and Home State quota. The JEE Main cutoff was released in the form of opening and closing ranks. For the General AI quota, the overall cutoff ranged from 21087 to 84897 for enrolment to various BTech branches. According to the last round, the most competitive specialisation for admission was BTech CSE . Students can click on this page to know the cutoff for other categories.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NIT Sikkim JEE Main cutoff 2025 for OBC?",
+            "tags": [
+              {
+                "tag_name": "B.Tech",
+                "tag_url": "https://www.shiksha.com/engineering-chp6"
+              },
+              {
+                "tag_name": "NIT Sikkim - National Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/nit-sikkim-national-institute-of-technology-sikkim-other-39335"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "NIT Sikkim JEE Main cutoff 2025 for the OBC AI quota ranged from 7236 to 90926 . According to the last round closing ranks, the most sought-after BTech branch for admission was BTech CSE. Among the OBC HS quota, the cutoff ranged from 129104 to 1152850 , wherein the most competitive specialisation, according to the last round, proved to be BTech CSE as well. Candidates can check the table below to know the first and last round cutoff for this category and quota. Course Round 1 (Closing Rank) Last Round (Closing Rank) All India Quota B.Tech. in Computer Science and Engineering 7236 41523 B.Tech. in Electronics and Communication Engineering 9634 52586 B.Tech. in Electrical and Electronics Engineering 11452 65184 B.Tech. in Civil Engineering 15563 90926 B.Tech. in Mechanical Engineering 12526 73146 B.Tech. in Artificial Intelligence and Machine Learning 8716 49967 Home State  Quota B.Tech. in Computer Science and Engineering 129104 132548 B.Tech. in Electronics and Communication Engineering 149706 364986 B.Tech. in Electrical and Electronics Engineering 195516 787295 B.Tech. in Civil Engineering 344903 542586 B.Tech. in Mechanical Engineering 344903 1152850 B.Tech. in Artificial Intelligence and Machine Learning 131718 398600 The cutoff for other categories, quotas, rounds, etc., will vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
               }
             ]
           }
@@ -4570,7 +4570,7 @@
             ],
             "question_text": "Hi all, I want to discuss about the confusion created by private colleges regarding admissions.",
             "followers": 2,
-            "views": 515,
+            "views": 516,
             "author": {
               "name": "Mohit diwakar",
               "profile_url": "https://www.shiksha.com/userprofile/99303948"
@@ -4591,7 +4591,7 @@
             ],
             "question_text": "Top Colleges or Top branches?",
             "followers": 4,
-            "views": 475,
+            "views": 477,
             "author": {
               "name": "Dhruvika middha",
               "profile_url": "https://www.shiksha.com/userprofile/99479084"
